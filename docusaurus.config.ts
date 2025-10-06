@@ -15,10 +15,12 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://corretto-inc.github.io/s2s2/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
+  // Make GitHub Pages redirects consistent
+  trailingSlash: true,
 
   stylesheets: [
     {
@@ -29,7 +31,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Corretto, Inc.', // Usually your GitHub org/user name.
+  organizationName: 'corretto-inc', // Usually your GitHub org/user name.
   projectName: 's2s2', // Usually your repo name.
 
   onBrokenLinks: 'throw',
