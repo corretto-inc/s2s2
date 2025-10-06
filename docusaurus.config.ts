@@ -15,13 +15,11 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://corretto-inc.github.io/s2s2/',
+  url: 'https://cs.s2s2.kr',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
   // Make GitHub Pages redirects consistent
-  trailingSlash: true,
-
   stylesheets: [
     {
       href: 'https://cdn.jsdelivr.net/npm/pretendard@latest/dist/web/static/pretendard.css',
