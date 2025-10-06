@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunks_2_s_2_docs=self.webpackChunks_2_s_2_docs||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\uc0ac\uc774\uc0ac\uc774 \uace0\uac1d\uc13c\ud130 \uc548\ub0b4","permalink":"/blog/help-center-intro","unlisted":false,"date":"2025-10-06T00:00:00.000Z"}]}')}}]);
