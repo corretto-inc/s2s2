@@ -1,0 +1,33 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+/* Pastel Pink theme */
+:root {
+  --ifm-font-family-base: 'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', sans-serif;
+  --ifm-heading-font-family: var(--ifm-font-family-base);
+  --ifm-color-primary: #f6a5c0;
+  --ifm-color-primary-dark: #e58cad;
+  --ifm-color-primary-darker: #d77e9f;
+  --ifm-color-primary-darkest: #b86686;
+  --ifm-color-primary-light: #f8b6cb;
+  --ifm-color-primary-lighter: #fad0dc;
+  --ifm-color-primary-lightest: #fde6ee;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #ff8fb3;
+  --ifm-color-primary-dark: #ff6fa0;
+  --ifm-color-primary-darker: #f75996;
+  --ifm-color-primary-darkest: #d6467e;
+  --ifm-color-primary-light: #ffa7c4;
+  --ifm-color-primary-lighter: #ffc7d9;
+  --ifm-color-primary-lightest: #ffe4ee;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}

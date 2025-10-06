@@ -1,0 +1,104 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.heroBadge {
+  margin-top: 0.75rem;
+  display: inline-block;
+  padding: 0.35rem 0.6rem;
+  border-radius: 999px;
+  background: var(--ifm-color-primary-lightest);
+  color: var(--ifm-color-primary-darkest);
+  font-size: 0.8rem;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Support section */
+.supportSection {
+  padding: 3rem 0 4rem;
+  background: linear-gradient(180deg, var(--ifm-color-primary-lightest) 0%, #fff 100%);
+}
+
+.sectionTitle {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.supportGrid {
+  --grid-gap: 1rem;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: var(--grid-gap);
+}
+
+@media screen and (max-width: 996px) {
+  .supportGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .supportGrid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.supportCard {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  padding: 1rem;
+  border-radius: 12px;
+  background: #fff;
+  border: 1px solid var(--ifm-color-primary-lighter);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+}
+
+.supportCard:hover {
+  transform: translateY(-2px);
+  border-color: var(--ifm-color-primary);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
+  text-decoration: none;
+}
+
+.supportCardEmoji {
+  font-size: 1.5rem;
+  line-height: 1;
+}
+
+.supportCardBody {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.supportCardTitle {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.supportCardDesc {
+  margin: 0;
+  color: var(--ifm-color-emphasis-700);
+  font-size: 0.875rem;
+}
