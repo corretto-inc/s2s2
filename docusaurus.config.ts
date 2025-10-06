@@ -15,7 +15,7 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://corretto-inc.github.io/s2s2',
+  url: 'https://cs.s2s2.kr',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -75,6 +75,19 @@ const config: Config = {
     ],
   ],
 
+  plugins: [
+    [
+      require.resolve('@easyops-cn/docusaurus-search-local'),
+      {
+        hashed: true,
+        indexDocs: true,
+        indexBlog: true,
+        highlightSearchTermsOnTargetPage: true,
+        language: ['en', 'ko'],
+      },
+    ],
+  ],
+
   themeConfig: {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
@@ -90,7 +103,7 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: '사이사이',
+      title: '사이사이 - 커플 앨범 공유앱',
       logo: {
         alt: '사이사이 Logo',
         src: 'img/logo.png',
@@ -104,6 +117,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {to: '/docs/help/backup-restore', label: '데이터 보관 정책', position: 'right'},
+        {type: 'search', position: 'right'},
         // {
         //   href: 'https://github.com/facebook/docusaurus',
         //   label: 'GitHub',
@@ -114,45 +128,41 @@ const config: Config = {
     footer: {
       style: 'dark',
       links: [
-        // {
-        //   title: 'Docs',
-        //   items: [
-        //     {
-        //       label: 'Tutorial',
-        //       to: '/docs/intro',
-        //     },
-        //   ],
-        // },
-        // {
-        //   title: 'Community',
-        //   items: [
-        //     {
-        //       label: 'Stack Overflow',
-        //       href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-        //     },
-        //     {
-        //       label: 'Discord',
-        //       href: 'https://discordapp.com/invite/docusaurus',
-        //     },
-        //     {
-        //       label: 'X',
-        //       href: 'https://x.com/docusaurus',
-        //     },
-        //   ],
-        // },
-        // {
-        //   title: 'More',
-        //   items: [
-        //     {
-        //       label: 'Blog',
-        //       to: '/blog',
-        //     },
-        //     {
-        //       label: 'GitHub',
-        //       href: 'https://github.com/facebook/docusaurus',
-        //     },
-        //   ],
-        // },
+        {
+          title: '도움말',
+          items: [
+            {
+              label: '도움말 센터',
+              to: '/docs/help/getting-started',
+            },
+            {
+              label: '블로그',
+              to: '/blog',
+            }
+          ],
+        },
+        {
+          title: '이용하기',
+          items: [
+            {
+              label: 'App Store(IOS)',
+              href: 'https://apps.apple.com/kr/app/%EC%82%AC%EC%9D%B4%EC%82%AC%EC%9D%B4-%EC%BB%A4%ED%94%8C-%EC%95%A8%EB%B2%94-%EA%B3%B5%EC%9C%A0/id6751275039',
+            },
+            {
+              label: 'Google Play(Android)',
+              href: 'https://play.google.com/store/apps/details?id=kr.s2s2',
+            },
+          ],
+        },
+        {
+          title: 'More',
+          items: [
+            {
+              label: '사이사이 홈페이지',
+              href: 'https://s2s2.kr',
+            }
+          ],
+        },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Corretto, Inc.`,
     },

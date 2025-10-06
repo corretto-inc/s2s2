@@ -108,7 +108,7 @@ export default function Home(): ReactNode {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="커플 앨범 공유 앱 사이사이 고객센터">
       <HomepageHeader />
       <SupportGrid />
     </Layout>
