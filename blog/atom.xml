@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://cs.s2s2.kr/blog</id>
+    <title>사이사이 고객센터 Blog</title>
+    <updated>2025-10-06T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://cs.s2s2.kr/blog"/>
+    <subtitle>사이사이 고객센터 Blog</subtitle>
+    <icon>https://cs.s2s2.kr/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사이사이 고객센터 안내]]></title>
+        <id>https://cs.s2s2.kr/blog/help-center-intro</id>
+        <link href="https://cs.s2s2.kr/blog/help-center-intro"/>
+        <updated>2025-10-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[사이사이 도움말과 문의 채널을 한눈에 안내합니다]]></summary>
+        <content type="html"><![CDATA[<p>사이사이 고객센터에 오신 것을 환영합니다.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="무엇을-도와드릴까요">무엇을 도와드릴까요?<a href="https://cs.s2s2.kr/blog/help-center-intro#%EB%AC%B4%EC%97%87%EC%9D%84-%EB%8F%84%EC%99%80%EB%93%9C%EB%A6%B4%EA%B9%8C%EC%9A%94" class="hash-link" aria-label="Direct link to 무엇을 도와드릴까요?" title="Direct link to 무엇을 도와드릴까요?" translate="no">​</a></h2>
+<ul>
+<li>시작하기: <code>더보기 탭 &gt; 커플 설정</code>에서 초대 코드를 확인하고 커플을 연결하세요.</li>
+<li>앨범 만들기: 홈에서 날짜를 선택하면 해당 날짜의 앨범이 생성되거나 열립니다.</li>
+<li>사진/영상 공유: 날짜별 앨범에서 <code>+</code> 버튼으로 업로드하고 댓글을 남길 수 있습니다.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="도움말-문서-모음">도움말 문서 모음<a href="https://cs.s2s2.kr/blog/help-center-intro#%EB%8F%84%EC%9B%80%EB%A7%90-%EB%AC%B8%EC%84%9C-%EB%AA%A8%EC%9D%8C" class="hash-link" aria-label="Direct link to 도움말 문서 모음" title="Direct link to 도움말 문서 모음" translate="no">​</a></h2>
+<ul>
+<li>시작하기: <a href="https://cs.s2s2.kr/docs/help/getting-started">/docs/help/getting-started</a></li>
+<li>앨범 만들기: <a href="https://cs.s2s2.kr/docs/help/create-album">/docs/help/create-album</a></li>
+<li>파트너 초대: <a href="https://cs.s2s2.kr/docs/help/invite-partner">/docs/help/invite-partner</a></li>
+<li>사진/동영상 공유: <a href="https://cs.s2s2.kr/docs/help/share-album">/docs/help/share-album</a></li>
+<li>데이터 백업 및 보관 정책: <a href="https://cs.s2s2.kr/docs/help/backup-restore">/docs/help/backup-restore</a></li>
+<li>FAQ: <a href="https://cs.s2s2.kr/docs/help/faq">/docs/help/faq</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="문의하기">문의하기<a href="https://cs.s2s2.kr/blog/help-center-intro#%EB%AC%B8%EC%9D%98%ED%95%98%EA%B8%B0" class="hash-link" aria-label="Direct link to 문의하기" title="Direct link to 문의하기" translate="no">​</a></h2>
+<ul>
+<li>이메일: <a href="mailto:help@corretto.io" target="_blank" rel="noopener noreferrer">help@corretto.io</a></li>
+<li>운영 시간: 평일 10:00–18:00 (KST)</li>
+</ul>
+<p>궁금한 점이 있다면 언제든지 연락 주세요. 🙂</p>]]></content>
+        <author>
+            <name>사이사이 관리자</name>
+            <uri>https://s2s2.kr</uri>
+        </author>
+        <category label="공지" term="공지"/>
+        <category label="고객센터" term="고객센터"/>
+    </entry>
+</feed>

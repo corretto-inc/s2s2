@@ -1,8 +1,0 @@
-s2s2:
-  name: 사이사이 관리자
-  title: 고객센터 운영팀
-  url: https://s2s2.kr
-  image_url: /img/logo.png
-  page: true
-  socials:
-    newsletter: https://s2s2.kr
