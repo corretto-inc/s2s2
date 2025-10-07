@@ -9,6 +9,52 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
+            <title><![CDATA[사이사이앱 1.7.2 패치노트]]></title>
+            <link>https://cs.s2s2.kr/blog/release-1-7-2</link>
+            <guid>https://cs.s2s2.kr/blog/release-1-7-2</guid>
+            <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[앨범 초기 로드 성능 개선, 썸네일 선택 모달 스크롤 버그 수정, 기념일 배너 추가]]></description>
+            <content:encoded><![CDATA[<p>이번 버전에서는 <strong>앱의 초기 로딩 속도 개선</strong>, <strong>버그 수정</strong>, 그리고 <strong>새로운 기념일 배너 기능</strong>이 추가되었어요.
+더 빠르고 편리한 사이사이를 만나보세요 💕</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-주요-개선-사항">🚀 주요 개선 사항<a href="https://cs.s2s2.kr/blog/release-1-7-2#-%EC%A3%BC%EC%9A%94-%EA%B0%9C%EC%84%A0-%EC%82%AC%ED%95%AD" class="hash-link" aria-label="Direct link to 🚀 주요 개선 사항" title="Direct link to 🚀 주요 개선 사항" translate="no">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="앨범-초기-로드-최적화">앨범 초기 로드 최적화<a href="https://cs.s2s2.kr/blog/release-1-7-2#%EC%95%A8%EB%B2%94-%EC%B4%88%EA%B8%B0-%EB%A1%9C%EB%93%9C-%EC%B5%9C%EC%A0%81%ED%99%94" class="hash-link" aria-label="Direct link to 앨범 초기 로드 최적화" title="Direct link to 앨범 초기 로드 최적화" translate="no">​</a></h3>
+<ul>
+<li>앨범 진입 시 <strong>초기 로드되는 사진 수를 조정</strong>하여 스크롤 및 탐색 속도가 향상되었습니다.</li>
+<li>초반 로딩 체감 속도가 개선되어 <strong>목록 이동 및 미리보기</strong>가 더 부드럽게 작동합니다.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-버그-수정">🐞 버그 수정<a href="https://cs.s2s2.kr/blog/release-1-7-2#-%EB%B2%84%EA%B7%B8-%EC%88%98%EC%A0%95" class="hash-link" aria-label="Direct link to 🐞 버그 수정" title="Direct link to 🐞 버그 수정" translate="no">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="썸네일-선택-모달-스크롤-문제-해결">썸네일 선택 모달 스크롤 문제 해결<a href="https://cs.s2s2.kr/blog/release-1-7-2#%EC%8D%B8%EB%84%A4%EC%9D%BC-%EC%84%A0%ED%83%9D-%EB%AA%A8%EB%8B%AC-%EC%8A%A4%ED%81%AC%EB%A1%A4-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0" class="hash-link" aria-label="Direct link to 썸네일 선택 모달 스크롤 문제 해결" title="Direct link to 썸네일 선택 모달 스크롤 문제 해결" translate="no">​</a></h3>
+<ul>
+<li>사진이 많을 때 <strong>스크롤이 표시되지 않아 화면이 깨지는 현상</strong>이 있었습니다.</li>
+<li>스크롤 처리를 보완하여 <strong>많은 사진에서도 안정적으로 탐색</strong>할 수 있도록 수정했습니다.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-새로운-기능">✨ 새로운 기능<a href="https://cs.s2s2.kr/blog/release-1-7-2#-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B8%B0%EB%8A%A5" class="hash-link" aria-label="Direct link to ✨ 새로운 기능" title="Direct link to ✨ 새로운 기능" translate="no">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="기념일-배너-안내">기념일 배너 안내<a href="https://cs.s2s2.kr/blog/release-1-7-2#%EA%B8%B0%EB%85%90%EC%9D%BC-%EB%B0%B0%EB%84%88-%EC%95%88%EB%82%B4" class="hash-link" aria-label="Direct link to 기념일 배너 안내" title="Direct link to 기념일 배너 안내" translate="no">​</a></h3>
+<ul>
+<li>커플의 <strong>기념일이 다가오면 앨범 탭 상단에 배너로 표시</strong>됩니다.</li>
+<li>배너를 통해 기념일을 쉽게 확인하고 관련 기능으로 빠르게 이동할 수 있어요.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-업데이트-방법">📲 업데이트 방법<a href="https://cs.s2s2.kr/blog/release-1-7-2#-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EB%B0%A9%EB%B2%95" class="hash-link" aria-label="Direct link to 📲 업데이트 방법" title="Direct link to 📲 업데이트 방법" translate="no">​</a></h2>
+<ul>
+<li><strong>iOS:</strong> <a href="https://apps.apple.com/kr/app/%EC%82%AC%EC%9D%B4%EC%82%AC%EC%9D%B4-%EC%BB%A4%ED%94%8C-%EC%95%A8%EB%B2%94-%EA%B3%B5%EC%9C%A0/id6751275039" target="_blank" rel="noopener noreferrer">App Store에서 업데이트</a></li>
+<li><strong>Android:</strong> <a href="https://play.google.com/store/apps/details?id=kr.s2s2" target="_blank" rel="noopener noreferrer">Google Play에서 업데이트</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-기타-안내">💬 기타 안내<a href="https://cs.s2s2.kr/blog/release-1-7-2#-%EA%B8%B0%ED%83%80-%EC%95%88%EB%82%B4" class="hash-link" aria-label="Direct link to 💬 기타 안내" title="Direct link to 💬 기타 안내" translate="no">​</a></h2>
+<ul>
+<li>문제가 지속되거나 의견이 있으시면 <a href="https://cs.s2s2.kr/docs/help/getting-started">고객센터 도움말</a>을 참고해 주세요.</li>
+<li>사이사이는 여러분의 추억을 안전하게 지킵니다.<!-- -->
+<ul>
+<li><strong>원본/리사이즈 이중화 저장</strong></li>
+<li><strong>DB 일 1회 백업</strong> 운영 중입니다.</li>
+</ul>
+</li>
+</ul>
+<p>💗 항상 사이사이를 이용해 주셔서 감사합니다!</p>]]></content:encoded>
+            <category>공지</category>
+            <category>업데이트</category>
+            <category>릴리스</category>
+        </item>
+        <item>
             <title><![CDATA[우리의 추억은 이렇게 안전하게 보관됩니다]]></title>
             <link>https://cs.s2s2.kr/blog/s3-data-safety</link>
             <guid>https://cs.s2s2.kr/blog/s3-data-safety</guid>
