@@ -12,7 +12,7 @@
         <id>https://cs.s2s2.kr/blog/s3-data-safety</id>
         <link href="https://cs.s2s2.kr/blog/s3-data-safety"/>
         <updated>2025-10-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[최근 이미지 유실 사례를 계기로 공개하는 사이사이의 파일 보관·복구 설계]]></summary>
+        <summary type="html"><![CDATA[최근 대형 커플 앱 서비스의 이미지 유실 사례를 계기로 공개하는 사이사이의 파일 보관·복구 설계]]></summary>
         <content type="html"><![CDATA[<p>최근 모 커플 앱 서비스에서 이미지 유실 이슈가 있었고, 많은 분들이 데이터 안전성에 대해 다시 고민하게 되었습니다. 사이사이는 비슷한 일이 일어나지 않도록 설계 단계부터 “복구 가능성”과 “오작동 내성”을 최우선으로 두고 있습니다. 아래는 우리가 AWS S3를 중심으로 파일(사진/영상)을 안전하게 보관하는 방법입니다.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="핵심-요약">핵심 요약<a href="https://cs.s2s2.kr/blog/s3-data-safety#%ED%95%B5%EC%8B%AC-%EC%9A%94%EC%95%BD" class="hash-link" aria-label="Direct link to 핵심 요약" title="Direct link to 핵심 요약" translate="no">​</a></h2>
 <ul>
