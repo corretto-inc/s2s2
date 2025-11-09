@@ -9,7 +9,7 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[사이사이 1.7.5 업데이트 안내 💌]]></title>
+            <title><![CDATA[사이사이 v1.7.5 업데이트 안내]]></title>
             <link>https://cs.s2s2.kr/blog/release-1-7-5</link>
             <guid>https://cs.s2s2.kr/blog/release-1-7-5</guid>
             <pubDate>Sun, 09 Nov 2025 00:00:00 GMT</pubDate>
@@ -52,7 +52,7 @@
             <category>릴리스</category>
         </item>
         <item>
-            <title><![CDATA[사이사이 1.7.4 업데이트 안내 💌]]></title>
+            <title><![CDATA[사이사이 v1.7.4 업데이트 안내]]></title>
             <link>https://cs.s2s2.kr/blog/release-1-7-4</link>
             <guid>https://cs.s2s2.kr/blog/release-1-7-4</guid>
             <pubDate>Sun, 02 Nov 2025 00:00:00 GMT</pubDate>
@@ -62,16 +62,16 @@
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="-신규-기능">✨ 신규 기능<a href="https://cs.s2s2.kr/blog/release-1-7-4#-%EC%8B%A0%EA%B7%9C-%EA%B8%B0%EB%8A%A5" class="hash-link" aria-label="Direct link to ✨ 신규 기능" title="Direct link to ✨ 신규 기능" translate="no">​</a></h2>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="앨범-생성-개선">앨범 생성 개선<a href="https://cs.s2s2.kr/blog/release-1-7-4#%EC%95%A8%EB%B2%94-%EC%83%9D%EC%84%B1-%EA%B0%9C%EC%84%A0" class="hash-link" aria-label="Direct link to 앨범 생성 개선" title="Direct link to 앨범 생성 개선" translate="no">​</a></h3>
 <ul>
-<li>이미 등록된 날짜가 있는 경우 자동으로 <strong>‘앨범 생성 / 미디어 추가’ 모드로 전환</strong>되어 더 편리해졌어요. 💫</li>
+<li>이미 등록된 날짜가 있는 경우 자동으로 <strong>‘앨범 생성 / 미디어 추가’ 모드로 전환</strong>되어 더 편리해졌어요.</li>
 </ul>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="앨범-설명-더보기">앨범 설명 더보기<a href="https://cs.s2s2.kr/blog/release-1-7-4#%EC%95%A8%EB%B2%94-%EC%84%A4%EB%AA%85-%EB%8D%94%EB%B3%B4%EA%B8%B0" class="hash-link" aria-label="Direct link to 앨범 설명 더보기" title="Direct link to 앨범 설명 더보기" translate="no">​</a></h3>
 <ul>
-<li>이제 긴 설명도 <strong>‘더보기’ 버튼</strong>으로 전체 내용을 확인할 수 있어요. 🌷</li>
+<li>이제 긴 설명도 <strong>‘더보기’ 버튼</strong>으로 전체 내용을 확인할 수 있어요.</li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="-버그-수정">🔧 버그 수정<a href="https://cs.s2s2.kr/blog/release-1-7-4#-%EB%B2%84%EA%B7%B8-%EC%88%98%EC%A0%95" class="hash-link" aria-label="Direct link to 🔧 버그 수정" title="Direct link to 🔧 버그 수정" translate="no">​</a></h2>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="위젯-d-day-계산-오류-수정">위젯 D-DAY 계산 오류 수정<a href="https://cs.s2s2.kr/blog/release-1-7-4#%EC%9C%84%EC%A0%AF-d-day-%EA%B3%84%EC%82%B0-%EC%98%A4%EB%A5%98-%EC%88%98%EC%A0%95" class="hash-link" aria-label="Direct link to 위젯 D-DAY 계산 오류 수정" title="Direct link to 위젯 D-DAY 계산 오류 수정" translate="no">​</a></h3>
 <ul>
-<li>특별한 날의 <strong>날짜 계산 정확도</strong>를 개선했어요. 🎉</li>
+<li>특별한 날의 <strong>날짜 계산 정확도</strong>를 개선했어요.</li>
 </ul>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="날짜-선택-오류-수정">날짜 선택 오류 수정<a href="https://cs.s2s2.kr/blog/release-1-7-4#%EB%82%A0%EC%A7%9C-%EC%84%A0%ED%83%9D-%EC%98%A4%EB%A5%98-%EC%88%98%EC%A0%95" class="hash-link" aria-label="Direct link to 날짜 선택 오류 수정" title="Direct link to 날짜 선택 오류 수정" translate="no">​</a></h3>
 <ul>
@@ -91,7 +91,7 @@
             <category>릴리스</category>
         </item>
         <item>
-            <title><![CDATA[사이사이 v1.7.3 업데이트 안내 💌]]></title>
+            <title><![CDATA[사이사이 v1.7.3 업데이트 안내]]></title>
             <link>https://cs.s2s2.kr/blog/release-1-7-3</link>
             <guid>https://cs.s2s2.kr/blog/release-1-7-3</guid>
             <pubDate>Sun, 26 Oct 2025 00:00:00 GMT</pubDate>
@@ -101,14 +101,14 @@
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="-신규-기능">✨ 신규 기능<a href="https://cs.s2s2.kr/blog/release-1-7-3#-%EC%8B%A0%EA%B7%9C-%EA%B8%B0%EB%8A%A5" class="hash-link" aria-label="Direct link to ✨ 신규 기능" title="Direct link to ✨ 신규 기능" translate="no">​</a></h2>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="ios-위젯-추가">iOS 위젯 추가<a href="https://cs.s2s2.kr/blog/release-1-7-3#ios-%EC%9C%84%EC%A0%AF-%EC%B6%94%EA%B0%80" class="hash-link" aria-label="Direct link to iOS 위젯 추가" title="Direct link to iOS 위젯 추가" translate="no">​</a></h3>
 <ul>
-<li>이제 <strong>홈 화면 위젯</strong>으로 우리의 추억을 바로 확인할 수 있어요. 🌷</li>
+<li>이제 <strong>홈 화면 위젯</strong>으로 우리의 추억을 바로 확인할 수 있어요.</li>
 <li>자주 보고 싶은 사진을 <strong>위젯으로 설정</strong>해보세요!</li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="-ux-개선">🧭 UX 개선<a href="https://cs.s2s2.kr/blog/release-1-7-3#-ux-%EA%B0%9C%EC%84%A0" class="hash-link" aria-label="Direct link to 🧭 UX 개선" title="Direct link to 🧭 UX 개선" translate="no">​</a></h2>
 <ul>
 <li>화면 전환 및 <strong>앨범 로딩 속도</strong>를 개선했어요.</li>
 <li>주요 메뉴의 <strong>사용 흐름을 정돈</strong>하여 더 직관적으로 바꿨어요.</li>
-<li><strong>글씨 간격·버튼 간격</strong> 등을 다듬어, 눈과 손 모두 편해졌어요. 💫</li>
+<li><strong>글씨 간격·버튼 간격</strong> 등을 다듬어, 눈과 손 모두 편해졌어요.</li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="-버그-수정">🔧 버그 수정<a href="https://cs.s2s2.kr/blog/release-1-7-3#-%EB%B2%84%EA%B7%B8-%EC%88%98%EC%A0%95" class="hash-link" aria-label="Direct link to 🔧 버그 수정" title="Direct link to 🔧 버그 수정" translate="no">​</a></h2>
 <ul>
@@ -129,13 +129,13 @@
             <category>릴리스</category>
         </item>
         <item>
-            <title><![CDATA[사이사이앱 1.7.2 패치노트]]></title>
+            <title><![CDATA[사이사이 v1.7.2 업데이트 안내]]></title>
             <link>https://cs.s2s2.kr/blog/release-1-7-2</link>
             <guid>https://cs.s2s2.kr/blog/release-1-7-2</guid>
             <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[앨범 초기 로드 성능 개선, 썸네일 선택 모달 스크롤 버그 수정, 기념일 배너 추가]]></description>
             <content:encoded><![CDATA[<p>이번 버전에서는 <strong>앱의 초기 로딩 속도 개선</strong>, <strong>버그 수정</strong>, 그리고 <strong>새로운 기념일 배너 기능</strong>이 추가되었어요.
-더 빠르고 편리한 사이사이를 만나보세요 💕</p>
+더 빠르고 편리한 사이사이를 만나보세요.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="-주요-개선-사항">🚀 주요 개선 사항<a href="https://cs.s2s2.kr/blog/release-1-7-2#-%EC%A3%BC%EC%9A%94-%EA%B0%9C%EC%84%A0-%EC%82%AC%ED%95%AD" class="hash-link" aria-label="Direct link to 🚀 주요 개선 사항" title="Direct link to 🚀 주요 개선 사항" translate="no">​</a></h2>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="앨범-초기-로드-최적화">앨범 초기 로드 최적화<a href="https://cs.s2s2.kr/blog/release-1-7-2#%EC%95%A8%EB%B2%94-%EC%B4%88%EA%B8%B0-%EB%A1%9C%EB%93%9C-%EC%B5%9C%EC%A0%81%ED%99%94" class="hash-link" aria-label="Direct link to 앨범 초기 로드 최적화" title="Direct link to 앨범 초기 로드 최적화" translate="no">​</a></h3>
 <ul>
@@ -169,7 +169,7 @@
 </ul>
 </li>
 </ul>
-<p>💗 항상 사이사이를 이용해 주셔서 감사합니다!</p>]]></content:encoded>
+<p>항상 사이사이를 이용해 주셔서 감사합니다.</p>]]></content:encoded>
             <category>공지</category>
             <category>업데이트</category>
             <category>릴리스</category>
