@@ -2,11 +2,143 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cs.s2s2.kr/blog</id>
     <title>사이사이 고객센터 Blog</title>
-    <updated>2025-10-07T00:00:00.000Z</updated>
+    <updated>2025-11-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cs.s2s2.kr/blog"/>
     <subtitle>사이사이 고객센터 Blog</subtitle>
     <icon>https://cs.s2s2.kr/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사이사이 1.7.5 업데이트 안내 💌]]></title>
+        <id>https://cs.s2s2.kr/blog/release-1-7-5</id>
+        <link href="https://cs.s2s2.kr/blog/release-1-7-5"/>
+        <updated>2025-11-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[달력 시작 요일 설정, 앱 내 비밀번호 변경, 업로드 미리보기, 사진 다운로드, 동영상 썸네일 버그 수정]]></summary>
+        <content type="html"><![CDATA[<p>사이사이를 이용해주시는 모든 분들께 감사드립니다.
+이번 업데이트에서는 새로운 기능이 추가되고, 기존 기능의 안정성이 더욱 향상되었습니다.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-신규-기능">✨ 신규 기능<a href="https://cs.s2s2.kr/blog/release-1-7-5#-%EC%8B%A0%EA%B7%9C-%EA%B8%B0%EB%8A%A5" class="hash-link" aria-label="Direct link to ✨ 신규 기능" title="Direct link to ✨ 신규 기능" translate="no">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="달력-시작-요일-설정">달력 시작 요일 설정<a href="https://cs.s2s2.kr/blog/release-1-7-5#%EB%8B%AC%EB%A0%A5-%EC%8B%9C%EC%9E%91-%EC%9A%94%EC%9D%BC-%EC%84%A4%EC%A0%95" class="hash-link" aria-label="Direct link to 달력 시작 요일 설정" title="Direct link to 달력 시작 요일 설정" translate="no">​</a></h3>
+<ul>
+<li>달력의 <strong>시작 요일을 원하는 요일로 변경</strong>할 수 있어요. (일/월 등)</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="앱-내-비밀번호-변경">앱 내 비밀번호 변경<a href="https://cs.s2s2.kr/blog/release-1-7-5#%EC%95%B1-%EB%82%B4-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%EB%B3%80%EA%B2%BD" class="hash-link" aria-label="Direct link to 앱 내 비밀번호 변경" title="Direct link to 앱 내 비밀번호 변경" translate="no">​</a></h3>
+<ul>
+<li>앱 설정에서 <strong>비밀번호를 직접 변경</strong>할 수 있도록 기능을 추가했어요.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="사진-업로드-미리보기">사진 업로드 미리보기<a href="https://cs.s2s2.kr/blog/release-1-7-5#%EC%82%AC%EC%A7%84-%EC%97%85%EB%A1%9C%EB%93%9C-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0" class="hash-link" aria-label="Direct link to 사진 업로드 미리보기" title="Direct link to 사진 업로드 미리보기" translate="no">​</a></h3>
+<ul>
+<li>사진 업로드 과정에서 <strong>미리보기</strong>로 선택한 이미지를 확인할 수 있어 실수가 줄어들어요.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="앨범-사진-다운로드">앨범 사진 다운로드<a href="https://cs.s2s2.kr/blog/release-1-7-5#%EC%95%A8%EB%B2%94-%EC%82%AC%EC%A7%84-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C" class="hash-link" aria-label="Direct link to 앨범 사진 다운로드" title="Direct link to 앨범 사진 다운로드" translate="no">​</a></h3>
+<ul>
+<li>앨범 속 사진을 <strong>기기에 저장(다운로드)</strong> 할 수 있는 기능을 추가했어요.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-버그-수정">🐞 버그 수정<a href="https://cs.s2s2.kr/blog/release-1-7-5#-%EB%B2%84%EA%B7%B8-%EC%88%98%EC%A0%95" class="hash-link" aria-label="Direct link to 🐞 버그 수정" title="Direct link to 🐞 버그 수정" translate="no">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="동영상-썸네일-표시-문제-해결">동영상 썸네일 표시 문제 해결<a href="https://cs.s2s2.kr/blog/release-1-7-5#%EB%8F%99%EC%98%81%EC%83%81-%EC%8D%B8%EB%84%A4%EC%9D%BC-%ED%91%9C%EC%8B%9C-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0" class="hash-link" aria-label="Direct link to 동영상 썸네일 표시 문제 해결" title="Direct link to 동영상 썸네일 표시 문제 해결" translate="no">​</a></h3>
+<ul>
+<li>동영상 업로드 시 <strong>썸네일이 표시되지 않던 문제</strong>를 수정했습니다.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-업데이트-방법">📲 업데이트 방법<a href="https://cs.s2s2.kr/blog/release-1-7-5#-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EB%B0%A9%EB%B2%95" class="hash-link" aria-label="Direct link to 📲 업데이트 방법" title="Direct link to 📲 업데이트 방법" translate="no">​</a></h2>
+<ul>
+<li><strong>iOS:</strong> <a href="https://apps.apple.com/kr/app/%EC%82%AC%EC%9D%B4%EC%82%AC%EC%9D%B4-%EC%BB%A4%ED%94%8C-%EC%95%A8%EB%B2%94-%EA%B3%B5%EC%9C%A0/id6751275039" target="_blank" rel="noopener noreferrer">App Store에서 업데이트</a></li>
+<li><strong>Android:</strong> <a href="https://play.google.com/store/apps/details?id=kr.s2s2" target="_blank" rel="noopener noreferrer">Google Play에서 업데이트</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-기타-안내">💬 기타 안내<a href="https://cs.s2s2.kr/blog/release-1-7-5#-%EA%B8%B0%ED%83%80-%EC%95%88%EB%82%B4" class="hash-link" aria-label="Direct link to 💬 기타 안내" title="Direct link to 💬 기타 안내" translate="no">​</a></h2>
+<p>사이사이는 앞으로도 여러분의 추억이 더 따뜻하고 안전하게 남겨질 수 있도록 꾸준히 개선해 나가겠습니다.
+오늘도 사이사이와 함께 따뜻한 하루 보내세요 🌷</p>
+<p>— 사이사이 팀 드림</p>]]></content>
+        <author>
+            <name>사이사이 관리자</name>
+            <uri>https://s2s2.kr</uri>
+        </author>
+        <category label="공지" term="공지"/>
+        <category label="업데이트" term="업데이트"/>
+        <category label="릴리스" term="릴리스"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사이사이 1.7.4 업데이트 안내 💌]]></title>
+        <id>https://cs.s2s2.kr/blog/release-1-7-4</id>
+        <link href="https://cs.s2s2.kr/blog/release-1-7-4"/>
+        <updated>2025-11-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[앨범 생성 UX 개선, 앨범 설명 더보기, 위젯 D-DAY 계산 오류, 날짜 선택 오류 수정]]></summary>
+        <content type="html"><![CDATA[<p>사용자분들의 더 나은 앱 사용을 위해
+신규 기능 추가 및 사용성·안정성을 개선했습니다.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-신규-기능">✨ 신규 기능<a href="https://cs.s2s2.kr/blog/release-1-7-4#-%EC%8B%A0%EA%B7%9C-%EA%B8%B0%EB%8A%A5" class="hash-link" aria-label="Direct link to ✨ 신규 기능" title="Direct link to ✨ 신규 기능" translate="no">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="앨범-생성-개선">앨범 생성 개선<a href="https://cs.s2s2.kr/blog/release-1-7-4#%EC%95%A8%EB%B2%94-%EC%83%9D%EC%84%B1-%EA%B0%9C%EC%84%A0" class="hash-link" aria-label="Direct link to 앨범 생성 개선" title="Direct link to 앨범 생성 개선" translate="no">​</a></h3>
+<ul>
+<li>이미 등록된 날짜가 있는 경우 자동으로 <strong>‘앨범 생성 / 미디어 추가’ 모드로 전환</strong>되어 더 편리해졌어요. 💫</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="앨범-설명-더보기">앨범 설명 더보기<a href="https://cs.s2s2.kr/blog/release-1-7-4#%EC%95%A8%EB%B2%94-%EC%84%A4%EB%AA%85-%EB%8D%94%EB%B3%B4%EA%B8%B0" class="hash-link" aria-label="Direct link to 앨범 설명 더보기" title="Direct link to 앨범 설명 더보기" translate="no">​</a></h3>
+<ul>
+<li>이제 긴 설명도 <strong>‘더보기’ 버튼</strong>으로 전체 내용을 확인할 수 있어요. 🌷</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-버그-수정">🔧 버그 수정<a href="https://cs.s2s2.kr/blog/release-1-7-4#-%EB%B2%84%EA%B7%B8-%EC%88%98%EC%A0%95" class="hash-link" aria-label="Direct link to 🔧 버그 수정" title="Direct link to 🔧 버그 수정" translate="no">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="위젯-d-day-계산-오류-수정">위젯 D-DAY 계산 오류 수정<a href="https://cs.s2s2.kr/blog/release-1-7-4#%EC%9C%84%EC%A0%AF-d-day-%EA%B3%84%EC%82%B0-%EC%98%A4%EB%A5%98-%EC%88%98%EC%A0%95" class="hash-link" aria-label="Direct link to 위젯 D-DAY 계산 오류 수정" title="Direct link to 위젯 D-DAY 계산 오류 수정" translate="no">​</a></h3>
+<ul>
+<li>특별한 날의 <strong>날짜 계산 정확도</strong>를 개선했어요. 🎉</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="날짜-선택-오류-수정">날짜 선택 오류 수정<a href="https://cs.s2s2.kr/blog/release-1-7-4#%EB%82%A0%EC%A7%9C-%EC%84%A0%ED%83%9D-%EC%98%A4%EB%A5%98-%EC%88%98%EC%A0%95" class="hash-link" aria-label="Direct link to 날짜 선택 오류 수정" title="Direct link to 날짜 선택 오류 수정" translate="no">​</a></h3>
+<ul>
+<li>일부 환경에서 <strong>날짜가 올바르게 표시되지 않던 문제</strong>를 해결했습니다.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-업데이트-방법">📲 업데이트 방법<a href="https://cs.s2s2.kr/blog/release-1-7-4#-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EB%B0%A9%EB%B2%95" class="hash-link" aria-label="Direct link to 📲 업데이트 방법" title="Direct link to 📲 업데이트 방법" translate="no">​</a></h2>
+<ul>
+<li><strong>iOS:</strong> <a href="https://apps.apple.com/kr/app/%EC%82%AC%EC%9D%B4%EC%82%AC%EC%9D%B4-%EC%BB%A4%ED%94%8C-%EC%95%A8%EB%B2%94-%EA%B3%B5%EC%9C%A0/id6751275039" target="_blank" rel="noopener noreferrer">App Store에서 업데이트</a></li>
+<li><strong>Android:</strong> <a href="https://play.google.com/store/apps/details?id=kr.s2s2" target="_blank" rel="noopener noreferrer">Google Play에서 업데이트</a></li>
+</ul>
+<p>사이사이는 앞으로도 여러분의 추억이 더 따뜻하고 안전하게 남겨질 수 있도록
+꾸준히 개선해 나가겠습니다.</p>
+<p>오늘도 사이사이와 함께 따뜻한 하루 보내세요 🌷</p>
+<p>— 사이사이 팀 드림 —</p>]]></content>
+        <author>
+            <name>사이사이 관리자</name>
+            <uri>https://s2s2.kr</uri>
+        </author>
+        <category label="공지" term="공지"/>
+        <category label="업데이트" term="업데이트"/>
+        <category label="릴리스" term="릴리스"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사이사이 v1.7.3 업데이트 안내 💌]]></title>
+        <id>https://cs.s2s2.kr/blog/release-1-7-3</id>
+        <link href="https://cs.s2s2.kr/blog/release-1-7-3"/>
+        <updated>2025-10-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[iOS 위젯 추가, 화면 전환/로딩 속도 개선, 메뉴 사용성 개선, 타이포/버튼 간격 정돈, 안정성 향상]]></summary>
+        <content type="html"><![CDATA[<p>사용자분들의 더 나은 앱 사용을 위해
+신규 기능 추가 및 사용성·안정성을 개선했습니다.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-신규-기능">✨ 신규 기능<a href="https://cs.s2s2.kr/blog/release-1-7-3#-%EC%8B%A0%EA%B7%9C-%EA%B8%B0%EB%8A%A5" class="hash-link" aria-label="Direct link to ✨ 신규 기능" title="Direct link to ✨ 신규 기능" translate="no">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="ios-위젯-추가">iOS 위젯 추가<a href="https://cs.s2s2.kr/blog/release-1-7-3#ios-%EC%9C%84%EC%A0%AF-%EC%B6%94%EA%B0%80" class="hash-link" aria-label="Direct link to iOS 위젯 추가" title="Direct link to iOS 위젯 추가" translate="no">​</a></h3>
+<ul>
+<li>이제 <strong>홈 화면 위젯</strong>으로 우리의 추억을 바로 확인할 수 있어요. 🌷</li>
+<li>자주 보고 싶은 사진을 <strong>위젯으로 설정</strong>해보세요!</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-ux-개선">🧭 UX 개선<a href="https://cs.s2s2.kr/blog/release-1-7-3#-ux-%EA%B0%9C%EC%84%A0" class="hash-link" aria-label="Direct link to 🧭 UX 개선" title="Direct link to 🧭 UX 개선" translate="no">​</a></h2>
+<ul>
+<li>화면 전환 및 <strong>앨범 로딩 속도</strong>를 개선했어요.</li>
+<li>주요 메뉴의 <strong>사용 흐름을 정돈</strong>하여 더 직관적으로 바꿨어요.</li>
+<li><strong>글씨 간격·버튼 간격</strong> 등을 다듬어, 눈과 손 모두 편해졌어요. 💫</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-버그-수정">🔧 버그 수정<a href="https://cs.s2s2.kr/blog/release-1-7-3#-%EB%B2%84%EA%B7%B8-%EC%88%98%EC%A0%95" class="hash-link" aria-label="Direct link to 🔧 버그 수정" title="Direct link to 🔧 버그 수정" translate="no">​</a></h2>
+<ul>
+<li>소소한 버그를 수정하고, <strong>전반적인 안정성</strong>을 향상했습니다.</li>
+<li>특정 기기에서 <strong>간헐적으로 발생하던 오류</strong>를 해결했습니다.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-업데이트-방법">📲 업데이트 방법<a href="https://cs.s2s2.kr/blog/release-1-7-3#-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EB%B0%A9%EB%B2%95" class="hash-link" aria-label="Direct link to 📲 업데이트 방법" title="Direct link to 📲 업데이트 방법" translate="no">​</a></h2>
+<ul>
+<li><strong>iOS:</strong> <a href="https://apps.apple.com/kr/app/%EC%82%AC%EC%9D%B4%EC%82%AC%EC%9D%B4-%EC%BB%A4%ED%94%8C-%EC%95%A8%EB%B2%94-%EA%B3%B5%EC%9C%A0/id6751275039" target="_blank" rel="noopener noreferrer">App Store에서 업데이트</a></li>
+<li><strong>Android:</strong> <a href="https://play.google.com/store/apps/details?id=kr.s2s2" target="_blank" rel="noopener noreferrer">Google Play에서 업데이트</a></li>
+</ul>
+<p>사이사이는 앞으로도 여러분의 추억이 더 따뜻하고 안전하게 남겨질 수 있도록
+꾸준히 개선해 나가겠습니다.</p>
+<p>오늘도 사이사이와 함께 따뜻한 하루 보내세요 🌷</p>
+<p>— 사이사이 팀 드림 —</p>]]></content>
+        <author>
+            <name>사이사이 관리자</name>
+            <uri>https://s2s2.kr</uri>
+        </author>
+        <category label="공지" term="공지"/>
+        <category label="업데이트" term="업데이트"/>
+        <category label="릴리스" term="릴리스"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사이사이앱 1.7.2 패치노트]]></title>
         <id>https://cs.s2s2.kr/blog/release-1-7-2</id>
