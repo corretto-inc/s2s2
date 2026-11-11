@@ -38,7 +38,7 @@ const topics: Topic[] = [
   },
   {
     title: '앨범 만들기',
-    description: '새 커플 앨범 생성과 커버/설정 관리.',
+    description: '앨범 생성과 날짜, 커버 관리.',
     to: '/docs/help/create-album',
     emoji: '📚',
   },
@@ -55,8 +55,32 @@ const topics: Topic[] = [
     emoji: '🖼️',
   },
   {
+    title: '다이어리 쓰기',
+    description: '글로 추억을 남기고 댓글로 대화해요.',
+    to: '/docs/help/diary',
+    emoji: '📖',
+  },
+  {
+    title: '이메일 비밀번호 찾기',
+    description: '이메일 인증으로 로그인 비밀번호를 다시 설정해요.',
+    to: '/docs/help/account-recovery',
+    emoji: '🔑',
+  },
+  {
+    title: '다락방 이용하기',
+    description: '즐겨찾기 앨범, 메모와 일정을 찾아보세요.',
+    to: '/docs/help/attic',
+    emoji: '🗂️',
+  },
+  {
+    title: '앱 잠금',
+    description: '1.9.4 출시 예정: 비밀번호와 생체인증 사용법.',
+    to: '/docs/help/app-lock',
+    emoji: '🔐',
+  },
+  {
     title: '보안과 프라이버시',
-    description: '접근 권한, 링크 보호, 비공개 옵션.',
+    description: '계정 보호, 사진 권한과 앱 잠금 안내.',
     to: '/docs/help/privacy-security',
     emoji: '🔒',
   },
