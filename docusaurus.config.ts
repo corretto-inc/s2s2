@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: '사이사이 고객센터',
   tagline: '우리 사이의 모든 순간',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/saisai-favicon.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -86,7 +86,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/saisai-icon.png',
     announcementBar: {
       id: 'data-safety',
       content:
@@ -102,7 +102,7 @@ const config: Config = {
       title: '사이사이 - 커플 앨범 공유앱',
       logo: {
         alt: '사이사이 Logo',
-        src: 'img/logo.png',
+        src: 'img/saisai-icon.png',
       },
       items: [
         {
