@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cs.s2s2.kr/blog"/>
     <subtitle>사이사이 고객센터 Blog</subtitle>
-    <icon>https://cs.s2s2.kr/img/favicon.ico</icon>
+    <icon>https://cs.s2s2.kr/img/saisai-favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[사이사이 v1.9.4 업데이트 안내]]></title>
         <id>https://cs.s2s2.kr/blog/release-1-9-4</id>
