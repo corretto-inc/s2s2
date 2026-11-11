@@ -74,7 +74,7 @@ const topics: Topic[] = [
   },
   {
     title: '앱 잠금',
-    description: '1.9.4 출시 예정: 비밀번호와 생체인증 사용법.',
+    description: '1.9.4부터 이용 가능: 비밀번호와 생체인증 사용법.',
     to: '/docs/help/app-lock',
     emoji: '🔐',
   },

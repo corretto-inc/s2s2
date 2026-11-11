@@ -17,3 +17,8 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+업데이트:
+  label: 업데이트
+  permalink: /updates
+  description: 사이사이 버전별 업데이트 안내
