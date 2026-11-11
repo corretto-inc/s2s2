@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cs.s2s2.kr/blog</id>
     <title>사이사이 고객센터 Blog</title>
-    <updated>2026-11-11T01:10:00.000Z</updated>
+    <updated>2026-11-11T03:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cs.s2s2.kr/blog"/>
     <subtitle>사이사이 고객센터 Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[사이사이 v1.9.4 업데이트 안내]]></title>
         <id>https://cs.s2s2.kr/blog/release-1-9-4</id>
         <link href="https://cs.s2s2.kr/blog/release-1-9-4"/>
-        <updated>2026-11-11T01:10:00.000Z</updated>
+        <updated>2026-11-11T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[마음 전하기와 앱 잠금을 추가했어요]]></summary>
         <content type="html"><![CDATA[<p>마음 전하기와 앱 잠금을 추가했어요.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="마음-전하기">마음 전하기<a href="https://cs.s2s2.kr/blog/release-1-9-4#%EB%A7%88%EC%9D%8C-%EC%A0%84%ED%95%98%EA%B8%B0" class="hash-link" aria-label="마음 전하기에 대한 직접 링크" title="마음 전하기에 대한 직접 링크" translate="no">​</a></h2>
@@ -26,217 +26,6 @@
 <p>iOS 26에 리퀴드 글라스 하단 메뉴를 적용했어요. 기록 조회와 알림 이동 등 사용 중 발생하던 오류를 수정했습니다.</p>
 <p><a href="https://cs.s2s2.kr/docs/help/app-lock">앱 잠금 설정과 복구 방법</a>을 도움말에서 확인하세요.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="업데이트하기">업데이트하기<a href="https://cs.s2s2.kr/blog/release-1-9-4#%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EA%B8%B0" class="hash-link" aria-label="업데이트하기에 대한 직접 링크" title="업데이트하기에 대한 직접 링크" translate="no">​</a></h2>
-<p><a href="https://apps.apple.com/kr/app/id6751275039" target="_blank" rel="noopener noreferrer">App Store</a> 또는 <a href="https://play.google.com/store/apps/details?id=kr.s2s2" target="_blank" rel="noopener noreferrer">Google Play</a>에서 사이사이를 최신 버전으로 업데이트해 주세요.</p>]]></content>
-        <author>
-            <name>사이사이 관리자</name>
-            <uri>https://s2s2.kr</uri>
-        </author>
-        <category label="업데이트" term="업데이트"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사이사이 v1.9.3 업데이트 안내]]></title>
-        <id>https://cs.s2s2.kr/blog/release-1-9-3</id>
-        <link href="https://cs.s2s2.kr/blog/release-1-9-3"/>
-        <updated>2026-11-11T01:09:00.000Z</updated>
-        <summary type="html"><![CDATA[다이어리 댓글과 이메일 비밀번호 찾기를 추가했어요]]></summary>
-        <content type="html"><![CDATA[<p>다이어리 댓글과 이메일 비밀번호 찾기를 추가했어요.</p>
-<p>이 글은 이전에 누락된 버전별 변경 내역을 모아 2026년 11월 11일에 보충한 안내예요. 게시일은 해당 버전의 출시일과 다를 수 있습니다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="다이어리-댓글">다이어리 댓글<a href="https://cs.s2s2.kr/blog/release-1-9-3#%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC-%EB%8C%93%EA%B8%80" class="hash-link" aria-label="다이어리 댓글에 대한 직접 링크" title="다이어리 댓글에 대한 직접 링크" translate="no">​</a></h2>
-<p>다이어리 상세 화면에서 댓글을 작성하고 내가 쓴 댓글을 삭제할 수 있어요. 목록과 상세 화면에서 댓글 수도 확인할 수 있습니다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="이메일-비밀번호-찾기">이메일 비밀번호 찾기<a href="https://cs.s2s2.kr/blog/release-1-9-3#%EC%9D%B4%EB%A9%94%EC%9D%BC-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%EC%B0%BE%EA%B8%B0" class="hash-link" aria-label="이메일 비밀번호 찾기에 대한 직접 링크" title="이메일 비밀번호 찾기에 대한 직접 링크" translate="no">​</a></h2>
-<p>이메일 계정의 로그인 비밀번호를 잊었다면 이메일 인증 후 새 비밀번호를 설정할 수 있어요.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="화면-개선과-오류-수정">화면 개선과 오류 수정<a href="https://cs.s2s2.kr/blog/release-1-9-3#%ED%99%94%EB%A9%B4-%EA%B0%9C%EC%84%A0%EA%B3%BC-%EC%98%A4%EB%A5%98-%EC%88%98%EC%A0%95" class="hash-link" aria-label="화면 개선과 오류 수정에 대한 직접 링크" title="화면 개선과 오류 수정에 대한 직접 링크" translate="no">​</a></h2>
-<p>앨범·사진·영상 보기와 기록 작성 화면, 다락방·알림·더보기·설정을 정리했어요. 댓글 입력창이 키보드에 가려지는 문제, 업데이트 안내 중복 표시, 알림 이동과 영상 재생 오류를 수정했습니다.</p>
-<p><a href="https://cs.s2s2.kr/docs/help/diary">다이어리 사용법</a>과 <a href="https://cs.s2s2.kr/docs/help/account-recovery">비밀번호 찾기</a>에서 자세한 순서를 확인하세요.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="업데이트하기">업데이트하기<a href="https://cs.s2s2.kr/blog/release-1-9-3#%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EA%B8%B0" class="hash-link" aria-label="업데이트하기에 대한 직접 링크" title="업데이트하기에 대한 직접 링크" translate="no">​</a></h2>
-<p><a href="https://apps.apple.com/kr/app/id6751275039" target="_blank" rel="noopener noreferrer">App Store</a> 또는 <a href="https://play.google.com/store/apps/details?id=kr.s2s2" target="_blank" rel="noopener noreferrer">Google Play</a>에서 사이사이를 최신 버전으로 업데이트해 주세요.</p>]]></content>
-        <author>
-            <name>사이사이 관리자</name>
-            <uri>https://s2s2.kr</uri>
-        </author>
-        <category label="업데이트" term="업데이트"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사이사이 v1.9.2 업데이트 안내]]></title>
-        <id>https://cs.s2s2.kr/blog/release-1-9-2</id>
-        <link href="https://cs.s2s2.kr/blog/release-1-9-2"/>
-        <updated>2026-11-11T01:08:00.000Z</updated>
-        <summary type="html"><![CDATA[두 사람의 일정을 달력에서 관리하세요]]></summary>
-        <content type="html"><![CDATA[<p>두 사람의 일정을 달력에서 관리하세요.</p>
-<p>이 글은 이전에 누락된 버전별 변경 내역을 모아 2026년 11월 11일에 보충한 안내예요. 게시일은 해당 버전의 출시일과 다를 수 있습니다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="일정-관리">일정 관리<a href="https://cs.s2s2.kr/blog/release-1-9-2#%EC%9D%BC%EC%A0%95-%EA%B4%80%EB%A6%AC" class="hash-link" aria-label="일정 관리에 대한 직접 링크" title="일정 관리에 대한 직접 링크" translate="no">​</a></h2>
-<p>함께하는 일정을 등록하고 달력에서 확인할 수 있어요. 날짜별 상세 화면에서 약속을 확인하고 수정할 수 있습니다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="달력-이용-개선">달력 이용 개선<a href="https://cs.s2s2.kr/blog/release-1-9-2#%EB%8B%AC%EB%A0%A5-%EC%9D%B4%EC%9A%A9-%EA%B0%9C%EC%84%A0" class="hash-link" aria-label="달력 이용 개선에 대한 직접 링크" title="달력 이용 개선에 대한 직접 링크" translate="no">​</a></h2>
-<p>달력의 스크롤과 날짜 이동을 다듬었어요. 여러 날에 걸친 일정 표시와 날짜별 상세 화면도 개선했습니다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="업로드와-날짜-선택-오류-수정">업로드와 날짜 선택 오류 수정<a href="https://cs.s2s2.kr/blog/release-1-9-2#%EC%97%85%EB%A1%9C%EB%93%9C%EC%99%80-%EB%82%A0%EC%A7%9C-%EC%84%A0%ED%83%9D-%EC%98%A4%EB%A5%98-%EC%88%98%EC%A0%95" class="hash-link" aria-label="업로드와 날짜 선택 오류 수정에 대한 직접 링크" title="업로드와 날짜 선택 오류 수정에 대한 직접 링크" translate="no">​</a></h2>
-<p>여러 파일을 올리는 처리를 개선하고 사진의 날짜 필터 오류를 수정했어요. 일정을 만들거나 수정할 때 날짜 선택 화면에서 발생하던 문제도 보완했습니다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="업데이트하기">업데이트하기<a href="https://cs.s2s2.kr/blog/release-1-9-2#%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EA%B8%B0" class="hash-link" aria-label="업데이트하기에 대한 직접 링크" title="업데이트하기에 대한 직접 링크" translate="no">​</a></h2>
-<p><a href="https://apps.apple.com/kr/app/id6751275039" target="_blank" rel="noopener noreferrer">App Store</a> 또는 <a href="https://play.google.com/store/apps/details?id=kr.s2s2" target="_blank" rel="noopener noreferrer">Google Play</a>에서 사이사이를 최신 버전으로 업데이트해 주세요.</p>]]></content>
-        <author>
-            <name>사이사이 관리자</name>
-            <uri>https://s2s2.kr</uri>
-        </author>
-        <category label="업데이트" term="업데이트"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사이사이 v1.9.1 업데이트 안내]]></title>
-        <id>https://cs.s2s2.kr/blog/release-1-9-1</id>
-        <link href="https://cs.s2s2.kr/blog/release-1-9-1"/>
-        <updated>2026-11-11T01:07:00.000Z</updated>
-        <summary type="html"><![CDATA[함께 쓰는 메모를 추가했어요]]></summary>
-        <content type="html"><![CDATA[<p>함께 쓰는 메모를 추가했어요.</p>
-<p>이 글은 이전에 누락된 버전별 변경 내역을 모아 2026년 11월 11일에 보충한 안내예요. 게시일은 해당 버전의 출시일과 다를 수 있습니다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="메모-추가">메모 추가<a href="https://cs.s2s2.kr/blog/release-1-9-1#%EB%A9%94%EB%AA%A8-%EC%B6%94%EA%B0%80" class="hash-link" aria-label="메모 추가에 대한 직접 링크" title="메모 추가에 대한 직접 링크" translate="no">​</a></h2>
-<p>다락방에 함께 쓰는 메모를 추가했어요. 두 사람이 기억할 내용을 적고 확인할 수 있습니다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="표시-개선">표시 개선<a href="https://cs.s2s2.kr/blog/release-1-9-1#%ED%91%9C%EC%8B%9C-%EA%B0%9C%EC%84%A0" class="hash-link" aria-label="표시 개선에 대한 직접 링크" title="표시 개선에 대한 직접 링크" translate="no">​</a></h2>
-<p>메모 화면의 간격을 정리하고, 기념일의 주년 표시를 수정했어요.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="업데이트하기">업데이트하기<a href="https://cs.s2s2.kr/blog/release-1-9-1#%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EA%B8%B0" class="hash-link" aria-label="업데이트하기에 대한 직접 링크" title="업데이트하기에 대한 직접 링크" translate="no">​</a></h2>
-<p><a href="https://apps.apple.com/kr/app/id6751275039" target="_blank" rel="noopener noreferrer">App Store</a> 또는 <a href="https://play.google.com/store/apps/details?id=kr.s2s2" target="_blank" rel="noopener noreferrer">Google Play</a>에서 사이사이를 최신 버전으로 업데이트해 주세요.</p>]]></content>
-        <author>
-            <name>사이사이 관리자</name>
-            <uri>https://s2s2.kr</uri>
-        </author>
-        <category label="업데이트" term="업데이트"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사이사이 v1.9.0 업데이트 안내]]></title>
-        <id>https://cs.s2s2.kr/blog/release-1-9-0</id>
-        <link href="https://cs.s2s2.kr/blog/release-1-9-0"/>
-        <updated>2026-11-11T01:06:00.000Z</updated>
-        <summary type="html"><![CDATA[다락방과 즐겨찾기 앨범을 추가했어요]]></summary>
-        <content type="html"><![CDATA[<p>다락방과 즐겨찾기 앨범을 추가했어요.</p>
-<p>이 글은 이전에 누락된 버전별 변경 내역을 모아 2026년 11월 11일에 보충한 안내예요. 게시일은 해당 버전의 출시일과 다를 수 있습니다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="즐겨찾기-앨범">즐겨찾기 앨범<a href="https://cs.s2s2.kr/blog/release-1-9-0#%EC%A6%90%EA%B2%A8%EC%B0%BE%EA%B8%B0-%EC%95%A8%EB%B2%94" class="hash-link" aria-label="즐겨찾기 앨범에 대한 직접 링크" title="즐겨찾기 앨범에 대한 직접 링크" translate="no">​</a></h2>
-<p>모아두고 싶은 사진을 즐겨찾기 앨범으로 관리할 수 있어요. 다락방에서 즐겨찾기 앨범을 찾아보세요.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="사진-선택과-업로드-개선">사진 선택과 업로드 개선<a href="https://cs.s2s2.kr/blog/release-1-9-0#%EC%82%AC%EC%A7%84-%EC%84%A0%ED%83%9D%EA%B3%BC-%EC%97%85%EB%A1%9C%EB%93%9C-%EA%B0%9C%EC%84%A0" class="hash-link" aria-label="사진 선택과 업로드 개선에 대한 직접 링크" title="사진 선택과 업로드 개선에 대한 직접 링크" translate="no">​</a></h2>
-<p>사진을 날짜로 찾고 선택하는 과정을 개선했어요. 여러 파일의 업로드 처리와 이미 올린 미디어를 다루는 동작도 보완했습니다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="목록과-입력-오류-수정">목록과 입력 오류 수정<a href="https://cs.s2s2.kr/blog/release-1-9-0#%EB%AA%A9%EB%A1%9D%EA%B3%BC-%EC%9E%85%EB%A0%A5-%EC%98%A4%EB%A5%98-%EC%88%98%EC%A0%95" class="hash-link" aria-label="목록과 입력 오류 수정에 대한 직접 링크" title="목록과 입력 오류 수정에 대한 직접 링크" translate="no">​</a></h2>
-<p>목록을 이어서 불러오는 동작을 개선하고, 한글 입력 시 자모가 분리되는 문제를 수정했어요. 앨범 수정 화면의 키보드와 영상 재생 문제도 보완했습니다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="업데이트하기">업데이트하기<a href="https://cs.s2s2.kr/blog/release-1-9-0#%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EA%B8%B0" class="hash-link" aria-label="업데이트하기에 대한 직접 링크" title="업데이트하기에 대한 직접 링크" translate="no">​</a></h2>
-<p><a href="https://apps.apple.com/kr/app/id6751275039" target="_blank" rel="noopener noreferrer">App Store</a> 또는 <a href="https://play.google.com/store/apps/details?id=kr.s2s2" target="_blank" rel="noopener noreferrer">Google Play</a>에서 사이사이를 최신 버전으로 업데이트해 주세요.</p>]]></content>
-        <author>
-            <name>사이사이 관리자</name>
-            <uri>https://s2s2.kr</uri>
-        </author>
-        <category label="업데이트" term="업데이트"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사이사이 v1.8.5 업데이트 안내]]></title>
-        <id>https://cs.s2s2.kr/blog/release-1-8-5</id>
-        <link href="https://cs.s2s2.kr/blog/release-1-8-5"/>
-        <updated>2026-11-11T01:05:00.000Z</updated>
-        <summary type="html"><![CDATA[사진 전달과 Android 화면을 보완했어요]]></summary>
-        <content type="html"><![CDATA[<p>사진 전달과 Android 화면을 보완했어요.</p>
-<p>이 글은 이전에 누락된 버전별 변경 내역을 모아 2026년 11월 11일에 보충한 안내예요. 게시일은 해당 버전의 출시일과 다를 수 있습니다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="사진-불러오기-개선">사진 불러오기 개선<a href="https://cs.s2s2.kr/blog/release-1-8-5#%EC%82%AC%EC%A7%84-%EB%B6%88%EB%9F%AC%EC%98%A4%EA%B8%B0-%EA%B0%9C%EC%84%A0" class="hash-link" aria-label="사진 불러오기 개선에 대한 직접 링크" title="사진 불러오기 개선에 대한 직접 링크" translate="no">​</a></h2>
-<p>사진을 전달하는 경로를 개선해 앨범 이미지를 불러오는 처리를 보완했어요.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="android-호환성-개선">Android 호환성 개선<a href="https://cs.s2s2.kr/blog/release-1-8-5#android-%ED%98%B8%ED%99%98%EC%84%B1-%EA%B0%9C%EC%84%A0" class="hash-link" aria-label="Android 호환성 개선에 대한 직접 링크" title="Android 호환성 개선에 대한 직접 링크" translate="no">​</a></h2>
-<p>일부 Samsung One UI 환경에서 화면이 표시되는 동작을 보완했습니다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="업데이트하기">업데이트하기<a href="https://cs.s2s2.kr/blog/release-1-8-5#%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EA%B8%B0" class="hash-link" aria-label="업데이트하기에 대한 직접 링크" title="업데이트하기에 대한 직접 링크" translate="no">​</a></h2>
-<p><a href="https://apps.apple.com/kr/app/id6751275039" target="_blank" rel="noopener noreferrer">App Store</a> 또는 <a href="https://play.google.com/store/apps/details?id=kr.s2s2" target="_blank" rel="noopener noreferrer">Google Play</a>에서 사이사이를 최신 버전으로 업데이트해 주세요.</p>]]></content>
-        <author>
-            <name>사이사이 관리자</name>
-            <uri>https://s2s2.kr</uri>
-        </author>
-        <category label="업데이트" term="업데이트"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사이사이 v1.8.4 업데이트 안내]]></title>
-        <id>https://cs.s2s2.kr/blog/release-1-8-4</id>
-        <link href="https://cs.s2s2.kr/blog/release-1-8-4"/>
-        <updated>2026-11-11T01:04:00.000Z</updated>
-        <summary type="html"><![CDATA[사진 보기와 로그인 상태를 개선했어요]]></summary>
-        <content type="html"><![CDATA[<p>사진 보기와 로그인 상태를 개선했어요.</p>
-<p>이 글은 이전에 누락된 버전별 변경 내역을 모아 2026년 11월 11일에 보충한 안내예요. 게시일은 해당 버전의 출시일과 다를 수 있습니다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="사진과-영상-보기-개선">사진과 영상 보기 개선<a href="https://cs.s2s2.kr/blog/release-1-8-4#%EC%82%AC%EC%A7%84%EA%B3%BC-%EC%98%81%EC%83%81-%EB%B3%B4%EA%B8%B0-%EA%B0%9C%EC%84%A0" class="hash-link" aria-label="사진과 영상 보기 개선에 대한 직접 링크" title="사진과 영상 보기 개선에 대한 직접 링크" translate="no">​</a></h2>
-<p>사진을 불러오는 방식과 이미지 크기 처리를 개선했어요. Android의 사진 확대 문제와 사진·영상 상세 화면의 오류를 수정했습니다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="로그인과-위젯-오류-수정">로그인과 위젯 오류 수정<a href="https://cs.s2s2.kr/blog/release-1-8-4#%EB%A1%9C%EA%B7%B8%EC%9D%B8%EA%B3%BC-%EC%9C%84%EC%A0%AF-%EC%98%A4%EB%A5%98-%EC%88%98%EC%A0%95" class="hash-link" aria-label="로그인과 위젯 오류 수정에 대한 직접 링크" title="로그인과 위젯 오류 수정에 대한 직접 링크" translate="no">​</a></h2>
-<p>자동 로그인과 로그아웃 과정에서 발생하던 문제를 수정했어요. 위젯 갱신과 썸네일 선택, Android 하단 영역의 표시도 보완했습니다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="업데이트하기">업데이트하기<a href="https://cs.s2s2.kr/blog/release-1-8-4#%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EA%B8%B0" class="hash-link" aria-label="업데이트하기에 대한 직접 링크" title="업데이트하기에 대한 직접 링크" translate="no">​</a></h2>
-<p><a href="https://apps.apple.com/kr/app/id6751275039" target="_blank" rel="noopener noreferrer">App Store</a> 또는 <a href="https://play.google.com/store/apps/details?id=kr.s2s2" target="_blank" rel="noopener noreferrer">Google Play</a>에서 사이사이를 최신 버전으로 업데이트해 주세요.</p>]]></content>
-        <author>
-            <name>사이사이 관리자</name>
-            <uri>https://s2s2.kr</uri>
-        </author>
-        <category label="업데이트" term="업데이트"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사이사이 v1.8.3 업데이트 안내]]></title>
-        <id>https://cs.s2s2.kr/blog/release-1-8-3</id>
-        <link href="https://cs.s2s2.kr/blog/release-1-8-3"/>
-        <updated>2026-11-11T01:03:00.000Z</updated>
-        <summary type="html"><![CDATA[오늘의 회상과 앨범 댓글을 추가했어요]]></summary>
-        <content type="html"><![CDATA[<p>오늘의 회상과 앨범 댓글을 추가했어요.</p>
-<p>이 글은 이전에 누락된 버전별 변경 내역을 모아 2026년 11월 11일에 보충한 안내예요. 게시일은 해당 버전의 출시일과 다를 수 있습니다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="오늘의-회상">오늘의 회상<a href="https://cs.s2s2.kr/blog/release-1-8-3#%EC%98%A4%EB%8A%98%EC%9D%98-%ED%9A%8C%EC%83%81" class="hash-link" aria-label="오늘의 회상에 대한 직접 링크" title="오늘의 회상에 대한 직접 링크" translate="no">​</a></h2>
-<p>예전에 남긴 추억을 다시 꺼내볼 수 있는 오늘의 회상을 추가했어요.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="앨범-댓글과-달력-개선">앨범 댓글과 달력 개선<a href="https://cs.s2s2.kr/blog/release-1-8-3#%EC%95%A8%EB%B2%94-%EB%8C%93%EA%B8%80%EA%B3%BC-%EB%8B%AC%EB%A0%A5-%EA%B0%9C%EC%84%A0" class="hash-link" aria-label="앨범 댓글과 달력 개선에 대한 직접 링크" title="앨범 댓글과 달력 개선에 대한 직접 링크" translate="no">​</a></h2>
-<p>앨범에 댓글을 남기고 함께 이야기를 나눌 수 있어요. 달력에는 기념일을 표시하고, 날짜를 선택하는 화면도 다듬었습니다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="화면과-오류-수정">화면과 오류 수정<a href="https://cs.s2s2.kr/blog/release-1-8-3#%ED%99%94%EB%A9%B4%EA%B3%BC-%EC%98%A4%EB%A5%98-%EC%88%98%EC%A0%95" class="hash-link" aria-label="화면과 오류 수정에 대한 직접 링크" title="화면과 오류 수정에 대한 직접 링크" translate="no">​</a></h2>
-<p>커플 정보 수정과 초대 코드 복사 안내를 개선했어요. 앨범 간격·썸네일 표시와 앱 버전 확인, 날짜 선택 과정의 오류도 수정했습니다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="업데이트하기">업데이트하기<a href="https://cs.s2s2.kr/blog/release-1-8-3#%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EA%B8%B0" class="hash-link" aria-label="업데이트하기에 대한 직접 링크" title="업데이트하기에 대한 직접 링크" translate="no">​</a></h2>
-<p><a href="https://apps.apple.com/kr/app/id6751275039" target="_blank" rel="noopener noreferrer">App Store</a> 또는 <a href="https://play.google.com/store/apps/details?id=kr.s2s2" target="_blank" rel="noopener noreferrer">Google Play</a>에서 사이사이를 최신 버전으로 업데이트해 주세요.</p>]]></content>
-        <author>
-            <name>사이사이 관리자</name>
-            <uri>https://s2s2.kr</uri>
-        </author>
-        <category label="업데이트" term="업데이트"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사이사이 v1.8.2 업데이트 안내]]></title>
-        <id>https://cs.s2s2.kr/blog/release-1-8-2</id>
-        <link href="https://cs.s2s2.kr/blog/release-1-8-2"/>
-        <updated>2026-11-11T01:02:00.000Z</updated>
-        <summary type="html"><![CDATA[로그인과 달력 이용을 개선했어요]]></summary>
-        <content type="html"><![CDATA[<p>로그인과 달력 이용을 개선했어요.</p>
-<p>이 글은 이전에 누락된 버전별 변경 내역을 모아 2026년 11월 11일에 보충한 안내예요. 게시일은 해당 버전의 출시일과 다를 수 있습니다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="로그인-개선">로그인 개선<a href="https://cs.s2s2.kr/blog/release-1-8-2#%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B0%9C%EC%84%A0" class="hash-link" aria-label="로그인 개선에 대한 직접 링크" title="로그인 개선에 대한 직접 링크" translate="no">​</a></h2>
-<p>Google 로그인 처리를 보완하고 로그인 화면에서 앱 버전을 확인하도록 개선했어요.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="달력과-문의-화면-개선">달력과 문의 화면 개선<a href="https://cs.s2s2.kr/blog/release-1-8-2#%EB%8B%AC%EB%A0%A5%EA%B3%BC-%EB%AC%B8%EC%9D%98-%ED%99%94%EB%A9%B4-%EA%B0%9C%EC%84%A0" class="hash-link" aria-label="달력과 문의 화면 개선에 대한 직접 링크" title="달력과 문의 화면 개선에 대한 직접 링크" translate="no">​</a></h2>
-<p>달력의 기록 표시와 앨범 조회를 다듬고, 문의 화면에서 카카오 문의로 연결되는 동작을 보완했어요.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="업데이트하기">업데이트하기<a href="https://cs.s2s2.kr/blog/release-1-8-2#%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EA%B8%B0" class="hash-link" aria-label="업데이트하기에 대한 직접 링크" title="업데이트하기에 대한 직접 링크" translate="no">​</a></h2>
-<p><a href="https://apps.apple.com/kr/app/id6751275039" target="_blank" rel="noopener noreferrer">App Store</a> 또는 <a href="https://play.google.com/store/apps/details?id=kr.s2s2" target="_blank" rel="noopener noreferrer">Google Play</a>에서 사이사이를 최신 버전으로 업데이트해 주세요.</p>]]></content>
-        <author>
-            <name>사이사이 관리자</name>
-            <uri>https://s2s2.kr</uri>
-        </author>
-        <category label="업데이트" term="업데이트"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사이사이 v1.8.0 업데이트 안내]]></title>
-        <id>https://cs.s2s2.kr/blog/release-1-8-0</id>
-        <link href="https://cs.s2s2.kr/blog/release-1-8-0"/>
-        <updated>2026-11-11T01:01:00.000Z</updated>
-        <summary type="html"><![CDATA[다이어리로 하루의 이야기를 남겨보세요]]></summary>
-        <content type="html"><![CDATA[<p>다이어리로 하루의 이야기를 남겨보세요.</p>
-<p>이 글은 이전에 누락된 버전별 변경 내역을 모아 2026년 11월 11일에 보충한 안내예요. 게시일은 해당 버전의 출시일과 다를 수 있습니다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="다이어리-추가">다이어리 추가<a href="https://cs.s2s2.kr/blog/release-1-8-0#%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC-%EC%B6%94%EA%B0%80" class="hash-link" aria-label="다이어리 추가에 대한 직접 링크" title="다이어리 추가에 대한 직접 링크" translate="no">​</a></h2>
-<p>사진과 영상뿐 아니라 글로도 추억을 남길 수 있어요. 다이어리를 작성하고, 목록에서 찾아보거나 상세 화면에서 수정·삭제할 수 있습니다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="기록-화면-개편">기록 화면 개편<a href="https://cs.s2s2.kr/blog/release-1-8-0#%EA%B8%B0%EB%A1%9D-%ED%99%94%EB%A9%B4-%EA%B0%9C%ED%8E%B8" class="hash-link" aria-label="기록 화면 개편에 대한 직접 링크" title="기록 화면 개편에 대한 직접 링크" translate="no">​</a></h2>
-<p>앨범과 다이어리를 찾기 쉽도록 기록 목록과 필터를 정리했어요. 기록 추가 버튼에서 원하는 작성 메뉴로 이동할 수 있습니다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="업데이트하기">업데이트하기<a href="https://cs.s2s2.kr/blog/release-1-8-0#%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EA%B8%B0" class="hash-link" aria-label="업데이트하기에 대한 직접 링크" title="업데이트하기에 대한 직접 링크" translate="no">​</a></h2>
-<p><a href="https://apps.apple.com/kr/app/id6751275039" target="_blank" rel="noopener noreferrer">App Store</a> 또는 <a href="https://play.google.com/store/apps/details?id=kr.s2s2" target="_blank" rel="noopener noreferrer">Google Play</a>에서 사이사이를 최신 버전으로 업데이트해 주세요.</p>]]></content>
-        <author>
-            <name>사이사이 관리자</name>
-            <uri>https://s2s2.kr</uri>
-        </author>
-        <category label="업데이트" term="업데이트"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사이사이 v1.7.6 업데이트 안내]]></title>
-        <id>https://cs.s2s2.kr/blog/release-1-7-6</id>
-        <link href="https://cs.s2s2.kr/blog/release-1-7-6"/>
-        <updated>2026-11-11T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[앨범에서 사진과 영상을 나눠 볼 수 있어요]]></summary>
-        <content type="html"><![CDATA[<p>앨범에서 사진과 영상을 나눠 볼 수 있어요.</p>
-<p>이 글은 이전에 누락된 버전별 변경 내역을 모아 2026년 11월 11일에 보충한 안내예요. 게시일은 해당 버전의 출시일과 다를 수 있습니다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="앨범-필터">앨범 필터<a href="https://cs.s2s2.kr/blog/release-1-7-6#%EC%95%A8%EB%B2%94-%ED%95%84%ED%84%B0" class="hash-link" aria-label="앨범 필터에 대한 직접 링크" title="앨범 필터에 대한 직접 링크" translate="no">​</a></h2>
-<p>앨범 안에서 전체·사진·영상 필터를 선택해 원하는 항목만 볼 수 있어요.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="화면과-업로드-개선">화면과 업로드 개선<a href="https://cs.s2s2.kr/blog/release-1-7-6#%ED%99%94%EB%A9%B4%EA%B3%BC-%EC%97%85%EB%A1%9C%EB%93%9C-%EA%B0%9C%EC%84%A0" class="hash-link" aria-label="화면과 업로드 개선에 대한 직접 링크" title="화면과 업로드 개선에 대한 직접 링크" translate="no">​</a></h2>
-<p>앨범 목록·상세, 사진·영상 보기, 프로필과 커플 정보 화면을 정리했어요. 사진 선택과 업로드 화면도 다듬었습니다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="오류-수정">오류 수정<a href="https://cs.s2s2.kr/blog/release-1-7-6#%EC%98%A4%EB%A5%98-%EC%88%98%EC%A0%95" class="hash-link" aria-label="오류 수정에 대한 직접 링크" title="오류 수정에 대한 직접 링크" translate="no">​</a></h2>
-<p>앨범의 사진 순서를 바꿀 때 발생하던 문제와 이메일 로그인 오류를 수정했어요.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="업데이트하기">업데이트하기<a href="https://cs.s2s2.kr/blog/release-1-7-6#%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EA%B8%B0" class="hash-link" aria-label="업데이트하기에 대한 직접 링크" title="업데이트하기에 대한 직접 링크" translate="no">​</a></h2>
 <p><a href="https://apps.apple.com/kr/app/id6751275039" target="_blank" rel="noopener noreferrer">App Store</a> 또는 <a href="https://play.google.com/store/apps/details?id=kr.s2s2" target="_blank" rel="noopener noreferrer">Google Play</a>에서 사이사이를 최신 버전으로 업데이트해 주세요.</p>]]></content>
         <author>
             <name>사이사이 관리자</name>
@@ -278,10 +67,224 @@
         <category label="고객센터" term="고객센터"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[사이사이 v1.9.3 업데이트 안내]]></title>
+        <id>https://cs.s2s2.kr/blog/release-1-9-3</id>
+        <link href="https://cs.s2s2.kr/blog/release-1-9-3"/>
+        <updated>2026-11-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[다이어리 댓글과 이메일 비밀번호 찾기를 추가했어요]]></summary>
+        <content type="html"><![CDATA[<p>다이어리 댓글과 이메일 비밀번호 찾기를 추가했어요.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="다이어리-댓글">다이어리 댓글<a href="https://cs.s2s2.kr/blog/release-1-9-3#%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC-%EB%8C%93%EA%B8%80" class="hash-link" aria-label="다이어리 댓글에 대한 직접 링크" title="다이어리 댓글에 대한 직접 링크" translate="no">​</a></h2>
+<p>다이어리 상세 화면에서 댓글을 작성하고 내가 쓴 댓글을 삭제할 수 있어요. 목록과 상세 화면에서 댓글 수도 확인할 수 있습니다.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="이메일-비밀번호-찾기">이메일 비밀번호 찾기<a href="https://cs.s2s2.kr/blog/release-1-9-3#%EC%9D%B4%EB%A9%94%EC%9D%BC-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%EC%B0%BE%EA%B8%B0" class="hash-link" aria-label="이메일 비밀번호 찾기에 대한 직접 링크" title="이메일 비밀번호 찾기에 대한 직접 링크" translate="no">​</a></h2>
+<p>이메일 계정의 로그인 비밀번호를 잊었다면 이메일 인증 후 새 비밀번호를 설정할 수 있어요.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="화면-개선과-오류-수정">화면 개선과 오류 수정<a href="https://cs.s2s2.kr/blog/release-1-9-3#%ED%99%94%EB%A9%B4-%EA%B0%9C%EC%84%A0%EA%B3%BC-%EC%98%A4%EB%A5%98-%EC%88%98%EC%A0%95" class="hash-link" aria-label="화면 개선과 오류 수정에 대한 직접 링크" title="화면 개선과 오류 수정에 대한 직접 링크" translate="no">​</a></h2>
+<p>앨범·사진·영상 보기와 기록 작성 화면, 다락방·알림·더보기·설정을 정리했어요. 댓글 입력창이 키보드에 가려지는 문제, 업데이트 안내 중복 표시, 알림 이동과 영상 재생 오류를 수정했습니다.</p>
+<p><a href="https://cs.s2s2.kr/docs/help/diary">다이어리 사용법</a>과 <a href="https://cs.s2s2.kr/docs/help/account-recovery">비밀번호 찾기</a>에서 자세한 순서를 확인하세요.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="업데이트하기">업데이트하기<a href="https://cs.s2s2.kr/blog/release-1-9-3#%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EA%B8%B0" class="hash-link" aria-label="업데이트하기에 대한 직접 링크" title="업데이트하기에 대한 직접 링크" translate="no">​</a></h2>
+<p><a href="https://apps.apple.com/kr/app/id6751275039" target="_blank" rel="noopener noreferrer">App Store</a> 또는 <a href="https://play.google.com/store/apps/details?id=kr.s2s2" target="_blank" rel="noopener noreferrer">Google Play</a>에서 사이사이를 최신 버전으로 업데이트해 주세요.</p>]]></content>
+        <author>
+            <name>사이사이 관리자</name>
+            <uri>https://s2s2.kr</uri>
+        </author>
+        <category label="업데이트" term="업데이트"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사이사이 v1.9.2 업데이트 안내]]></title>
+        <id>https://cs.s2s2.kr/blog/release-1-9-2</id>
+        <link href="https://cs.s2s2.kr/blog/release-1-9-2"/>
+        <updated>2026-01-09T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[두 사람의 일정을 달력에서 관리하세요]]></summary>
+        <content type="html"><![CDATA[<p>두 사람의 일정을 달력에서 관리하세요.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="일정-관리">일정 관리<a href="https://cs.s2s2.kr/blog/release-1-9-2#%EC%9D%BC%EC%A0%95-%EA%B4%80%EB%A6%AC" class="hash-link" aria-label="일정 관리에 대한 직접 링크" title="일정 관리에 대한 직접 링크" translate="no">​</a></h2>
+<p>함께하는 일정을 등록하고 달력에서 확인할 수 있어요. 날짜별 상세 화면에서 약속을 확인하고 수정할 수 있습니다.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="달력-이용-개선">달력 이용 개선<a href="https://cs.s2s2.kr/blog/release-1-9-2#%EB%8B%AC%EB%A0%A5-%EC%9D%B4%EC%9A%A9-%EA%B0%9C%EC%84%A0" class="hash-link" aria-label="달력 이용 개선에 대한 직접 링크" title="달력 이용 개선에 대한 직접 링크" translate="no">​</a></h2>
+<p>달력의 스크롤과 날짜 이동을 다듬었어요. 여러 날에 걸친 일정 표시와 날짜별 상세 화면도 개선했습니다.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="업로드와-날짜-선택-오류-수정">업로드와 날짜 선택 오류 수정<a href="https://cs.s2s2.kr/blog/release-1-9-2#%EC%97%85%EB%A1%9C%EB%93%9C%EC%99%80-%EB%82%A0%EC%A7%9C-%EC%84%A0%ED%83%9D-%EC%98%A4%EB%A5%98-%EC%88%98%EC%A0%95" class="hash-link" aria-label="업로드와 날짜 선택 오류 수정에 대한 직접 링크" title="업로드와 날짜 선택 오류 수정에 대한 직접 링크" translate="no">​</a></h2>
+<p>여러 파일을 올리는 처리를 개선하고 사진의 날짜 필터 오류를 수정했어요. 일정을 만들거나 수정할 때 날짜 선택 화면에서 발생하던 문제도 보완했습니다.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="업데이트하기">업데이트하기<a href="https://cs.s2s2.kr/blog/release-1-9-2#%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EA%B8%B0" class="hash-link" aria-label="업데이트하기에 대한 직접 링크" title="업데이트하기에 대한 직접 링크" translate="no">​</a></h2>
+<p><a href="https://apps.apple.com/kr/app/id6751275039" target="_blank" rel="noopener noreferrer">App Store</a> 또는 <a href="https://play.google.com/store/apps/details?id=kr.s2s2" target="_blank" rel="noopener noreferrer">Google Play</a>에서 사이사이를 최신 버전으로 업데이트해 주세요.</p>]]></content>
+        <author>
+            <name>사이사이 관리자</name>
+            <uri>https://s2s2.kr</uri>
+        </author>
+        <category label="업데이트" term="업데이트"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사이사이 v1.9.1 업데이트 안내]]></title>
+        <id>https://cs.s2s2.kr/blog/release-1-9-1</id>
+        <link href="https://cs.s2s2.kr/blog/release-1-9-1"/>
+        <updated>2025-12-26T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[함께 쓰는 메모를 추가했어요]]></summary>
+        <content type="html"><![CDATA[<p>함께 쓰는 메모를 추가했어요.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="메모-추가">메모 추가<a href="https://cs.s2s2.kr/blog/release-1-9-1#%EB%A9%94%EB%AA%A8-%EC%B6%94%EA%B0%80" class="hash-link" aria-label="메모 추가에 대한 직접 링크" title="메모 추가에 대한 직접 링크" translate="no">​</a></h2>
+<p>다락방에 함께 쓰는 메모를 추가했어요. 두 사람이 기억할 내용을 적고 확인할 수 있습니다.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="표시-개선">표시 개선<a href="https://cs.s2s2.kr/blog/release-1-9-1#%ED%91%9C%EC%8B%9C-%EA%B0%9C%EC%84%A0" class="hash-link" aria-label="표시 개선에 대한 직접 링크" title="표시 개선에 대한 직접 링크" translate="no">​</a></h2>
+<p>메모 화면의 간격을 정리하고, 기념일의 주년 표시를 수정했어요.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="업데이트하기">업데이트하기<a href="https://cs.s2s2.kr/blog/release-1-9-1#%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EA%B8%B0" class="hash-link" aria-label="업데이트하기에 대한 직접 링크" title="업데이트하기에 대한 직접 링크" translate="no">​</a></h2>
+<p><a href="https://apps.apple.com/kr/app/id6751275039" target="_blank" rel="noopener noreferrer">App Store</a> 또는 <a href="https://play.google.com/store/apps/details?id=kr.s2s2" target="_blank" rel="noopener noreferrer">Google Play</a>에서 사이사이를 최신 버전으로 업데이트해 주세요.</p>]]></content>
+        <author>
+            <name>사이사이 관리자</name>
+            <uri>https://s2s2.kr</uri>
+        </author>
+        <category label="업데이트" term="업데이트"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사이사이 v1.9.0 업데이트 안내]]></title>
+        <id>https://cs.s2s2.kr/blog/release-1-9-0</id>
+        <link href="https://cs.s2s2.kr/blog/release-1-9-0"/>
+        <updated>2025-12-22T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[다락방과 즐겨찾기 앨범을 추가했어요]]></summary>
+        <content type="html"><![CDATA[<p>다락방과 즐겨찾기 앨범을 추가했어요.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="즐겨찾기-앨범">즐겨찾기 앨범<a href="https://cs.s2s2.kr/blog/release-1-9-0#%EC%A6%90%EA%B2%A8%EC%B0%BE%EA%B8%B0-%EC%95%A8%EB%B2%94" class="hash-link" aria-label="즐겨찾기 앨범에 대한 직접 링크" title="즐겨찾기 앨범에 대한 직접 링크" translate="no">​</a></h2>
+<p>모아두고 싶은 사진을 즐겨찾기 앨범으로 관리할 수 있어요. 다락방에서 즐겨찾기 앨범을 찾아보세요.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="사진-선택과-업로드-개선">사진 선택과 업로드 개선<a href="https://cs.s2s2.kr/blog/release-1-9-0#%EC%82%AC%EC%A7%84-%EC%84%A0%ED%83%9D%EA%B3%BC-%EC%97%85%EB%A1%9C%EB%93%9C-%EA%B0%9C%EC%84%A0" class="hash-link" aria-label="사진 선택과 업로드 개선에 대한 직접 링크" title="사진 선택과 업로드 개선에 대한 직접 링크" translate="no">​</a></h2>
+<p>사진을 날짜로 찾고 선택하는 과정을 개선했어요. 여러 파일의 업로드 처리와 이미 올린 미디어를 다루는 동작도 보완했습니다.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="목록과-입력-오류-수정">목록과 입력 오류 수정<a href="https://cs.s2s2.kr/blog/release-1-9-0#%EB%AA%A9%EB%A1%9D%EA%B3%BC-%EC%9E%85%EB%A0%A5-%EC%98%A4%EB%A5%98-%EC%88%98%EC%A0%95" class="hash-link" aria-label="목록과 입력 오류 수정에 대한 직접 링크" title="목록과 입력 오류 수정에 대한 직접 링크" translate="no">​</a></h2>
+<p>목록을 이어서 불러오는 동작을 개선하고, 한글 입력 시 자모가 분리되는 문제를 수정했어요. 앨범 수정 화면의 키보드와 영상 재생 문제도 보완했습니다.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="업데이트하기">업데이트하기<a href="https://cs.s2s2.kr/blog/release-1-9-0#%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EA%B8%B0" class="hash-link" aria-label="업데이트하기에 대한 직접 링크" title="업데이트하기에 대한 직접 링크" translate="no">​</a></h2>
+<p><a href="https://apps.apple.com/kr/app/id6751275039" target="_blank" rel="noopener noreferrer">App Store</a> 또는 <a href="https://play.google.com/store/apps/details?id=kr.s2s2" target="_blank" rel="noopener noreferrer">Google Play</a>에서 사이사이를 최신 버전으로 업데이트해 주세요.</p>]]></content>
+        <author>
+            <name>사이사이 관리자</name>
+            <uri>https://s2s2.kr</uri>
+        </author>
+        <category label="업데이트" term="업데이트"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사이사이 v1.8.5 업데이트 안내]]></title>
+        <id>https://cs.s2s2.kr/blog/release-1-8-5</id>
+        <link href="https://cs.s2s2.kr/blog/release-1-8-5"/>
+        <updated>2025-12-08T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[처음 만난 날을 설정할 수 없던 오류 수정]]></summary>
+        <content type="html"><![CDATA[<p>처음 만난 날을 설정할 수 없던 오류를 수정했어요.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="처음-만난-날-설정-오류-수정">처음 만난 날 설정 오류 수정<a href="https://cs.s2s2.kr/blog/release-1-8-5#%EC%B2%98%EC%9D%8C-%EB%A7%8C%EB%82%9C-%EB%82%A0-%EC%84%A4%EC%A0%95-%EC%98%A4%EB%A5%98-%EC%88%98%EC%A0%95" class="hash-link" aria-label="처음 만난 날 설정 오류 수정에 대한 직접 링크" title="처음 만난 날 설정 오류 수정에 대한 직접 링크" translate="no">​</a></h2>
+<p>커플의 처음 만난 날을 설정하는 과정에서 발생하던 문제를 수정했습니다.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="업데이트하기">업데이트하기<a href="https://cs.s2s2.kr/blog/release-1-8-5#%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EA%B8%B0" class="hash-link" aria-label="업데이트하기에 대한 직접 링크" title="업데이트하기에 대한 직접 링크" translate="no">​</a></h2>
+<p><a href="https://apps.apple.com/kr/app/id6751275039" target="_blank" rel="noopener noreferrer">App Store</a> 또는 <a href="https://play.google.com/store/apps/details?id=kr.s2s2" target="_blank" rel="noopener noreferrer">Google Play</a>에서 사이사이를 최신 버전으로 업데이트해 주세요.</p>]]></content>
+        <author>
+            <name>사이사이 관리자</name>
+            <uri>https://s2s2.kr</uri>
+        </author>
+        <category label="업데이트" term="업데이트"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사이사이 v1.8.4 업데이트 안내]]></title>
+        <id>https://cs.s2s2.kr/blog/release-1-8-4</id>
+        <link href="https://cs.s2s2.kr/blog/release-1-8-4"/>
+        <updated>2025-12-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[사진 보기와 로그인 상태를 개선했어요]]></summary>
+        <content type="html"><![CDATA[<p>사진 보기와 로그인 상태를 개선했어요.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="사진과-영상-보기-개선">사진과 영상 보기 개선<a href="https://cs.s2s2.kr/blog/release-1-8-4#%EC%82%AC%EC%A7%84%EA%B3%BC-%EC%98%81%EC%83%81-%EB%B3%B4%EA%B8%B0-%EA%B0%9C%EC%84%A0" class="hash-link" aria-label="사진과 영상 보기 개선에 대한 직접 링크" title="사진과 영상 보기 개선에 대한 직접 링크" translate="no">​</a></h2>
+<p>사진을 불러오는 방식과 이미지 크기 처리를 개선했어요. Android의 사진 확대 문제와 사진·영상 상세 화면의 오류를 수정했습니다.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="로그인과-위젯-오류-수정">로그인과 위젯 오류 수정<a href="https://cs.s2s2.kr/blog/release-1-8-4#%EB%A1%9C%EA%B7%B8%EC%9D%B8%EA%B3%BC-%EC%9C%84%EC%A0%AF-%EC%98%A4%EB%A5%98-%EC%88%98%EC%A0%95" class="hash-link" aria-label="로그인과 위젯 오류 수정에 대한 직접 링크" title="로그인과 위젯 오류 수정에 대한 직접 링크" translate="no">​</a></h2>
+<p>자동 로그인과 로그아웃 과정에서 발생하던 문제를 수정했어요. 위젯 갱신과 썸네일 선택, Android 하단 영역의 표시도 보완했습니다.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="업데이트하기">업데이트하기<a href="https://cs.s2s2.kr/blog/release-1-8-4#%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EA%B8%B0" class="hash-link" aria-label="업데이트하기에 대한 직접 링크" title="업데이트하기에 대한 직접 링크" translate="no">​</a></h2>
+<p><a href="https://apps.apple.com/kr/app/id6751275039" target="_blank" rel="noopener noreferrer">App Store</a> 또는 <a href="https://play.google.com/store/apps/details?id=kr.s2s2" target="_blank" rel="noopener noreferrer">Google Play</a>에서 사이사이를 최신 버전으로 업데이트해 주세요.</p>]]></content>
+        <author>
+            <name>사이사이 관리자</name>
+            <uri>https://s2s2.kr</uri>
+        </author>
+        <category label="업데이트" term="업데이트"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사이사이 v1.8.3 업데이트 안내]]></title>
+        <id>https://cs.s2s2.kr/blog/release-1-8-3</id>
+        <link href="https://cs.s2s2.kr/blog/release-1-8-3"/>
+        <updated>2025-11-28T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[오늘의 회상과 앨범 댓글을 추가했어요]]></summary>
+        <content type="html"><![CDATA[<p>오늘의 회상과 앨범 댓글을 추가했어요.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="오늘의-회상">오늘의 회상<a href="https://cs.s2s2.kr/blog/release-1-8-3#%EC%98%A4%EB%8A%98%EC%9D%98-%ED%9A%8C%EC%83%81" class="hash-link" aria-label="오늘의 회상에 대한 직접 링크" title="오늘의 회상에 대한 직접 링크" translate="no">​</a></h2>
+<p>예전에 남긴 추억을 다시 꺼내볼 수 있는 오늘의 회상을 추가했어요.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="앨범-댓글과-달력-개선">앨범 댓글과 달력 개선<a href="https://cs.s2s2.kr/blog/release-1-8-3#%EC%95%A8%EB%B2%94-%EB%8C%93%EA%B8%80%EA%B3%BC-%EB%8B%AC%EB%A0%A5-%EA%B0%9C%EC%84%A0" class="hash-link" aria-label="앨범 댓글과 달력 개선에 대한 직접 링크" title="앨범 댓글과 달력 개선에 대한 직접 링크" translate="no">​</a></h2>
+<p>앨범에 댓글을 남기고 함께 이야기를 나눌 수 있어요. 달력에는 기념일을 표시하고, 날짜를 선택하는 화면도 다듬었습니다.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="화면과-오류-수정">화면과 오류 수정<a href="https://cs.s2s2.kr/blog/release-1-8-3#%ED%99%94%EB%A9%B4%EA%B3%BC-%EC%98%A4%EB%A5%98-%EC%88%98%EC%A0%95" class="hash-link" aria-label="화면과 오류 수정에 대한 직접 링크" title="화면과 오류 수정에 대한 직접 링크" translate="no">​</a></h2>
+<p>커플 정보 수정과 초대 코드 복사 안내를 개선했어요. 앨범 간격·썸네일 표시와 앱 버전 확인, 날짜 선택 과정의 오류도 수정했습니다.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="업데이트하기">업데이트하기<a href="https://cs.s2s2.kr/blog/release-1-8-3#%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EA%B8%B0" class="hash-link" aria-label="업데이트하기에 대한 직접 링크" title="업데이트하기에 대한 직접 링크" translate="no">​</a></h2>
+<p><a href="https://apps.apple.com/kr/app/id6751275039" target="_blank" rel="noopener noreferrer">App Store</a> 또는 <a href="https://play.google.com/store/apps/details?id=kr.s2s2" target="_blank" rel="noopener noreferrer">Google Play</a>에서 사이사이를 최신 버전으로 업데이트해 주세요.</p>]]></content>
+        <author>
+            <name>사이사이 관리자</name>
+            <uri>https://s2s2.kr</uri>
+        </author>
+        <category label="업데이트" term="업데이트"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사이사이 v1.8.2 업데이트 안내]]></title>
+        <id>https://cs.s2s2.kr/blog/release-1-8-2</id>
+        <link href="https://cs.s2s2.kr/blog/release-1-8-2"/>
+        <updated>2025-11-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[로그인과 달력 이용을 개선했어요]]></summary>
+        <content type="html"><![CDATA[<p>로그인과 달력 이용을 개선했어요.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="로그인-개선">로그인 개선<a href="https://cs.s2s2.kr/blog/release-1-8-2#%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B0%9C%EC%84%A0" class="hash-link" aria-label="로그인 개선에 대한 직접 링크" title="로그인 개선에 대한 직접 링크" translate="no">​</a></h2>
+<p>Google 로그인 처리를 보완하고 로그인 화면에서 앱 버전을 확인하도록 개선했어요.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="달력과-문의-화면-개선">달력과 문의 화면 개선<a href="https://cs.s2s2.kr/blog/release-1-8-2#%EB%8B%AC%EB%A0%A5%EA%B3%BC-%EB%AC%B8%EC%9D%98-%ED%99%94%EB%A9%B4-%EA%B0%9C%EC%84%A0" class="hash-link" aria-label="달력과 문의 화면 개선에 대한 직접 링크" title="달력과 문의 화면 개선에 대한 직접 링크" translate="no">​</a></h2>
+<p>달력의 기록 표시와 앨범 조회를 다듬고, 문의 화면에서 카카오 문의로 연결되는 동작을 보완했어요.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="업데이트하기">업데이트하기<a href="https://cs.s2s2.kr/blog/release-1-8-2#%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EA%B8%B0" class="hash-link" aria-label="업데이트하기에 대한 직접 링크" title="업데이트하기에 대한 직접 링크" translate="no">​</a></h2>
+<p><a href="https://apps.apple.com/kr/app/id6751275039" target="_blank" rel="noopener noreferrer">App Store</a> 또는 <a href="https://play.google.com/store/apps/details?id=kr.s2s2" target="_blank" rel="noopener noreferrer">Google Play</a>에서 사이사이를 최신 버전으로 업데이트해 주세요.</p>]]></content>
+        <author>
+            <name>사이사이 관리자</name>
+            <uri>https://s2s2.kr</uri>
+        </author>
+        <category label="업데이트" term="업데이트"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사이사이 v1.8.1 업데이트 안내]]></title>
+        <id>https://cs.s2s2.kr/blog/release-1-8-1</id>
+        <link href="https://cs.s2s2.kr/blog/release-1-8-1"/>
+        <updated>2025-11-15T03:01:00.000Z</updated>
+        <summary type="html"><![CDATA[추억꾸러미 탭에서 앨범 썸네일이 표시되지 않던 문제 수정]]></summary>
+        <content type="html"><![CDATA[<p>추억꾸러미 탭에서 앨범 썸네일이 표시되지 않던 문제를 수정했어요.</p>
+<p>다이어리 화면 개편 이후 추억꾸러미 탭에서 앨범 썸네일이 보이지 않는 현상이 있었어요. 이번 버전에서 해당 문제를 수정했습니다.</p>
+<p><a href="https://apps.apple.com/kr/app/id6751275039" target="_blank" rel="noopener noreferrer">App Store</a> 또는 <a href="https://play.google.com/store/apps/details?id=kr.s2s2" target="_blank" rel="noopener noreferrer">Google Play</a>에서 사이사이를 최신 버전으로 업데이트해 주세요.</p>]]></content>
+        <author>
+            <name>사이사이 관리자</name>
+            <uri>https://s2s2.kr</uri>
+        </author>
+        <category label="업데이트" term="업데이트"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사이사이 v1.8.0 업데이트 안내]]></title>
+        <id>https://cs.s2s2.kr/blog/release-1-8-0</id>
+        <link href="https://cs.s2s2.kr/blog/release-1-8-0"/>
+        <updated>2025-11-15T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[다이어리로 하루의 이야기를 남겨보세요]]></summary>
+        <content type="html"><![CDATA[<p>다이어리로 하루의 이야기를 남겨보세요.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="다이어리-추가">다이어리 추가<a href="https://cs.s2s2.kr/blog/release-1-8-0#%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC-%EC%B6%94%EA%B0%80" class="hash-link" aria-label="다이어리 추가에 대한 직접 링크" title="다이어리 추가에 대한 직접 링크" translate="no">​</a></h2>
+<p>사진과 영상뿐 아니라 글로도 추억을 남길 수 있어요. 다이어리를 작성하고, 목록에서 찾아보거나 상세 화면에서 수정·삭제할 수 있습니다.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="기록-화면-개편">기록 화면 개편<a href="https://cs.s2s2.kr/blog/release-1-8-0#%EA%B8%B0%EB%A1%9D-%ED%99%94%EB%A9%B4-%EA%B0%9C%ED%8E%B8" class="hash-link" aria-label="기록 화면 개편에 대한 직접 링크" title="기록 화면 개편에 대한 직접 링크" translate="no">​</a></h2>
+<p>앨범과 다이어리를 찾기 쉽도록 기록 목록과 필터를 정리했어요. 기록 추가 버튼에서 원하는 작성 메뉴로 이동할 수 있습니다.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="업데이트하기">업데이트하기<a href="https://cs.s2s2.kr/blog/release-1-8-0#%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EA%B8%B0" class="hash-link" aria-label="업데이트하기에 대한 직접 링크" title="업데이트하기에 대한 직접 링크" translate="no">​</a></h2>
+<p><a href="https://apps.apple.com/kr/app/id6751275039" target="_blank" rel="noopener noreferrer">App Store</a> 또는 <a href="https://play.google.com/store/apps/details?id=kr.s2s2" target="_blank" rel="noopener noreferrer">Google Play</a>에서 사이사이를 최신 버전으로 업데이트해 주세요.</p>]]></content>
+        <author>
+            <name>사이사이 관리자</name>
+            <uri>https://s2s2.kr</uri>
+        </author>
+        <category label="업데이트" term="업데이트"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사이사이 v1.7.6 업데이트 안내]]></title>
+        <id>https://cs.s2s2.kr/blog/release-1-7-6</id>
+        <link href="https://cs.s2s2.kr/blog/release-1-7-6"/>
+        <updated>2025-11-10T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[앨범에서 사진과 영상을 나눠 볼 수 있어요]]></summary>
+        <content type="html"><![CDATA[<p>앨범에서 사진과 영상을 나눠 볼 수 있어요.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="앨범-필터">앨범 필터<a href="https://cs.s2s2.kr/blog/release-1-7-6#%EC%95%A8%EB%B2%94-%ED%95%84%ED%84%B0" class="hash-link" aria-label="앨범 필터에 대한 직접 링크" title="앨범 필터에 대한 직접 링크" translate="no">​</a></h2>
+<p>앨범 안에서 전체·사진·영상 필터를 선택해 원하는 항목만 볼 수 있어요.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="화면과-업로드-개선">화면과 업로드 개선<a href="https://cs.s2s2.kr/blog/release-1-7-6#%ED%99%94%EB%A9%B4%EA%B3%BC-%EC%97%85%EB%A1%9C%EB%93%9C-%EA%B0%9C%EC%84%A0" class="hash-link" aria-label="화면과 업로드 개선에 대한 직접 링크" title="화면과 업로드 개선에 대한 직접 링크" translate="no">​</a></h2>
+<p>앨범 목록·상세, 사진·영상 보기, 프로필과 커플 정보 화면을 정리했어요. 사진 선택과 업로드 화면도 다듬었습니다.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="오류-수정">오류 수정<a href="https://cs.s2s2.kr/blog/release-1-7-6#%EC%98%A4%EB%A5%98-%EC%88%98%EC%A0%95" class="hash-link" aria-label="오류 수정에 대한 직접 링크" title="오류 수정에 대한 직접 링크" translate="no">​</a></h2>
+<p>앨범의 사진 순서를 바꿀 때 발생하던 문제와 이메일 로그인 오류를 수정했어요.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="업데이트하기">업데이트하기<a href="https://cs.s2s2.kr/blog/release-1-7-6#%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EA%B8%B0" class="hash-link" aria-label="업데이트하기에 대한 직접 링크" title="업데이트하기에 대한 직접 링크" translate="no">​</a></h2>
+<p><a href="https://apps.apple.com/kr/app/id6751275039" target="_blank" rel="noopener noreferrer">App Store</a> 또는 <a href="https://play.google.com/store/apps/details?id=kr.s2s2" target="_blank" rel="noopener noreferrer">Google Play</a>에서 사이사이를 최신 버전으로 업데이트해 주세요.</p>]]></content>
+        <author>
+            <name>사이사이 관리자</name>
+            <uri>https://s2s2.kr</uri>
+        </author>
+        <category label="업데이트" term="업데이트"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[사이사이 v1.7.5 업데이트 안내]]></title>
         <id>https://cs.s2s2.kr/blog/release-1-7-5</id>
         <link href="https://cs.s2s2.kr/blog/release-1-7-5"/>
-        <updated>2025-11-09T00:00:00.000Z</updated>
+        <updated>2025-11-07T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[달력 시작 요일 설정, 앱 내 비밀번호 변경, 업로드 미리보기, 사진 다운로드, 동영상 썸네일 버그 수정]]></summary>
         <content type="html"><![CDATA[<p>사이사이를 이용해주시는 모든 분들께 감사드립니다.
 이번 업데이트에서는 새로운 기능이 추가되고, 기존 기능의 안정성이 더욱 향상되었습니다.</p>
@@ -328,7 +331,7 @@
         <title type="html"><![CDATA[사이사이 v1.7.4 업데이트 안내]]></title>
         <id>https://cs.s2s2.kr/blog/release-1-7-4</id>
         <link href="https://cs.s2s2.kr/blog/release-1-7-4"/>
-        <updated>2025-11-02T00:00:00.000Z</updated>
+        <updated>2025-10-27T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[앨범 생성 UX 개선, 앨범 설명 더보기, 위젯 D-DAY 계산 오류, 날짜 선택 오류 수정]]></summary>
         <content type="html"><![CDATA[<p>사용자분들의 더 나은 앱 사용을 위해
 신규 기능 추가 및 사용성·안정성을 개선했습니다.</p>
@@ -371,7 +374,7 @@
         <title type="html"><![CDATA[사이사이 v1.7.3 업데이트 안내]]></title>
         <id>https://cs.s2s2.kr/blog/release-1-7-3</id>
         <link href="https://cs.s2s2.kr/blog/release-1-7-3"/>
-        <updated>2025-10-26T00:00:00.000Z</updated>
+        <updated>2025-10-16T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[iOS 위젯 추가, 화면 전환/로딩 속도 개선, 메뉴 사용성 개선, 타이포/버튼 간격 정돈, 안정성 향상]]></summary>
         <content type="html"><![CDATA[<p>사용자분들의 더 나은 앱 사용을 위해
 신규 기능 추가 및 사용성·안정성을 개선했습니다.</p>
@@ -413,7 +416,7 @@
         <title type="html"><![CDATA[사이사이 v1.7.2 업데이트 안내]]></title>
         <id>https://cs.s2s2.kr/blog/release-1-7-2</id>
         <link href="https://cs.s2s2.kr/blog/release-1-7-2"/>
-        <updated>2025-10-07T00:00:00.000Z</updated>
+        <updated>2025-10-08T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[앨범 초기 로드 성능 개선, 썸네일 선택 모달 스크롤 버그 수정, 기념일 배너 추가]]></summary>
         <content type="html"><![CDATA[<p>이번 버전에서는 <strong>앱의 초기 로딩 속도 개선</strong>, <strong>버그 수정</strong>, 그리고 <strong>새로운 기념일 배너 기능</strong>이 추가되었어요.
 더 빠르고 편리한 사이사이를 만나보세요.</p>
