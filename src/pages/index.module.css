@@ -36,11 +36,12 @@
 .sectionHeading { display: flex; justify-content: space-between; align-items: baseline; gap: 16px; margin-bottom: 32px; }
 .home h2 { margin: 0; font-size: 26px; letter-spacing: -.035em; line-height: 1.35; }
 .sectionHeading > span { color: var(--home-muted); font-size: 14px; }
-.groups { display: grid; grid-template-columns: 1fr 1fr; gap: 36px 56px; }
+.groups { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+.group { padding: 28px; background: var(--home-surface); border-radius: 8px; }
 .group h3 { margin: 0 0 12px; color: var(--home-accent); font-size: 17px; line-height: 1.5; font-weight: 650; }
 .group ul { margin: 0; padding: 0; list-style: none; }
 .topic { display: flex; justify-content: space-between; align-items: center; gap: 24px; padding: 16px; margin-inline: -16px; color: var(--home-ink); border-radius: 8px; transition: background-color .15s ease; }
-.topic:hover { color: var(--home-ink); background: var(--home-surface); text-decoration: none; }
+.topic:hover { color: var(--home-ink); background: var(--home-ground); text-decoration: none; }
 .topicTitle { font-size: 18px; font-weight: 600; letter-spacing: -.025em; }
 .topic p { margin: 5px 0 0; font-size: 15px; line-height: 1.5; color: var(--home-muted); word-break: keep-all; }
 .topic > svg { flex-shrink: 0; color: var(--home-muted); }
@@ -73,7 +74,8 @@
   .sectionHeading { display: block; margin-bottom: 28px; }
   .home h2 { font-size: 23px; }
   .sectionHeading > span { display: block; margin-top: 8px; }
-  .groups { grid-template-columns: 1fr; gap: 28px; }
+  .groups { grid-template-columns: 1fr; gap: 16px; }
+  .group { padding: 20px; }
   .topic { padding: 14px 12px; margin-inline: -12px; gap: 16px; }
   .topicTitle { font-size: 17px; }
   .newsInner { grid-template-columns: 1fr; gap: 20px; padding-block: 32px; }

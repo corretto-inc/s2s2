@@ -109,9 +109,9 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Help',
+          label: '도움말',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/blog', label: '블로그', position: 'left'},
         {to: '/docs/help/backup-restore', label: '데이터 보관 정책', position: 'right'},
         {type: 'search', position: 'right'},
         // {
@@ -151,7 +151,7 @@ const config: Config = {
           ],
         },
         {
-          title: 'More',
+          title: '더 알아보기',
           items: [
             {
               label: '사이사이 홈페이지',
